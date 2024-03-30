@@ -1,0 +1,3982 @@
+{
+    "1960": {
+        "Jan": {
+            "CPI": 29.3,
+            "Unemployment": 5.2,
+            "FedFunds": 3.99
+        },
+        "Feb": {
+            "CPI": 29.4,
+            "Unemployment": 4.8,
+            "FedFunds": 3.97
+        },
+        "Mar": {
+            "CPI": 29.4,
+            "Unemployment": 5.4,
+            "FedFunds": 3.84
+        },
+        "Apr": {
+            "CPI": 29.5,
+            "Unemployment": 5.2,
+            "FedFunds": 3.92
+        },
+        "May": {
+            "CPI": 29.5,
+            "Unemployment": 5.1,
+            "FedFunds": 3.85
+        },
+        "Jun": {
+            "CPI": 29.6,
+            "Unemployment": 5.4,
+            "FedFunds": 3.32
+        },
+        "Jul": {
+            "CPI": 29.6,
+            "Unemployment": 5.5,
+            "FedFunds": 3.23
+        },
+        "Aug": {
+            "CPI": 29.6,
+            "Unemployment": 5.6,
+            "FedFunds": 2.98
+        },
+        "Sep": {
+            "CPI": 29.6,
+            "Unemployment": 5.5,
+            "FedFunds": 2.6
+        },
+        "Oct": {
+            "CPI": 29.8,
+            "Unemployment": 6.1,
+            "FedFunds": 2.47
+        },
+        "Nov": {
+            "CPI": 29.8,
+            "Unemployment": 6.1,
+            "FedFunds": 2.44
+        },
+        "Dec": {
+            "CPI": 29.8,
+            "Unemployment": 6.6,
+            "FedFunds": 1.98
+        }
+    },
+    "1961": {
+        "Jan": {
+            "CPI": 29.8,
+            "Unemployment": 6.6,
+            "FedFunds": 1.45
+        },
+        "Feb": {
+            "CPI": 29.8,
+            "Unemployment": 6.9,
+            "FedFunds": 2.54
+        },
+        "Mar": {
+            "CPI": 29.8,
+            "Unemployment": 6.9,
+            "FedFunds": 2.02
+        },
+        "Apr": {
+            "CPI": 29.8,
+            "Unemployment": 7.0,
+            "FedFunds": 1.49
+        },
+        "May": {
+            "CPI": 29.8,
+            "Unemployment": 7.1,
+            "FedFunds": 1.98
+        },
+        "Jun": {
+            "CPI": 29.8,
+            "Unemployment": 6.9,
+            "FedFunds": 1.73
+        },
+        "Jul": {
+            "CPI": 30.0,
+            "Unemployment": 7.0,
+            "FedFunds": 1.17
+        },
+        "Aug": {
+            "CPI": 29.9,
+            "Unemployment": 6.6,
+            "FedFunds": 2.0
+        },
+        "Sep": {
+            "CPI": 30.0,
+            "Unemployment": 6.7,
+            "FedFunds": 1.88
+        },
+        "Oct": {
+            "CPI": 30.0,
+            "Unemployment": 6.5,
+            "FedFunds": 2.26
+        },
+        "Nov": {
+            "CPI": 30.0,
+            "Unemployment": 6.1,
+            "FedFunds": 2.61
+        },
+        "Dec": {
+            "CPI": 30.0,
+            "Unemployment": 6.0,
+            "FedFunds": 2.33
+        }
+    },
+    "1962": {
+        "Jan": {
+            "CPI": 30.0,
+            "Unemployment": 5.8,
+            "FedFunds": 2.15
+        },
+        "Feb": {
+            "CPI": 30.1,
+            "Unemployment": 5.5,
+            "FedFunds": 2.37
+        },
+        "Mar": {
+            "CPI": 30.1,
+            "Unemployment": 5.6,
+            "FedFunds": 2.85
+        },
+        "Apr": {
+            "CPI": 30.2,
+            "Unemployment": 5.6,
+            "FedFunds": 2.78
+        },
+        "May": {
+            "CPI": 30.2,
+            "Unemployment": 5.5,
+            "FedFunds": 2.36
+        },
+        "Jun": {
+            "CPI": 30.2,
+            "Unemployment": 5.5,
+            "FedFunds": 2.68
+        },
+        "Jul": {
+            "CPI": 30.3,
+            "Unemployment": 5.4,
+            "FedFunds": 2.71
+        },
+        "Aug": {
+            "CPI": 30.3,
+            "Unemployment": 5.7,
+            "FedFunds": 2.93
+        },
+        "Sep": {
+            "CPI": 30.4,
+            "Unemployment": 5.6,
+            "FedFunds": 2.9
+        },
+        "Oct": {
+            "CPI": 30.4,
+            "Unemployment": 5.4,
+            "FedFunds": 2.9
+        },
+        "Nov": {
+            "CPI": 30.4,
+            "Unemployment": 5.7,
+            "FedFunds": 2.94
+        },
+        "Dec": {
+            "CPI": 30.4,
+            "Unemployment": 5.5,
+            "FedFunds": 2.93
+        }
+    },
+    "1963": {
+        "Jan": {
+            "CPI": 30.4,
+            "Unemployment": 5.7,
+            "FedFunds": 2.92
+        },
+        "Feb": {
+            "CPI": 30.4,
+            "Unemployment": 5.9,
+            "FedFunds": 3.0
+        },
+        "Mar": {
+            "CPI": 30.5,
+            "Unemployment": 5.7,
+            "FedFunds": 2.98
+        },
+        "Apr": {
+            "CPI": 30.5,
+            "Unemployment": 5.7,
+            "FedFunds": 2.9
+        },
+        "May": {
+            "CPI": 30.5,
+            "Unemployment": 5.9,
+            "FedFunds": 3.0
+        },
+        "Jun": {
+            "CPI": 30.6,
+            "Unemployment": 5.6,
+            "FedFunds": 2.99
+        },
+        "Jul": {
+            "CPI": 30.7,
+            "Unemployment": 5.6,
+            "FedFunds": 3.02
+        },
+        "Aug": {
+            "CPI": 30.7,
+            "Unemployment": 5.4,
+            "FedFunds": 3.49
+        },
+        "Sep": {
+            "CPI": 30.7,
+            "Unemployment": 5.5,
+            "FedFunds": 3.48
+        },
+        "Oct": {
+            "CPI": 30.8,
+            "Unemployment": 5.5,
+            "FedFunds": 3.5
+        },
+        "Nov": {
+            "CPI": 30.8,
+            "Unemployment": 5.7,
+            "FedFunds": 3.48
+        },
+        "Dec": {
+            "CPI": 30.9,
+            "Unemployment": 5.5,
+            "FedFunds": 3.38
+        }
+    },
+    "1964": {
+        "Jan": {
+            "CPI": 30.9,
+            "Unemployment": 5.6,
+            "FedFunds": 3.48
+        },
+        "Feb": {
+            "CPI": 30.9,
+            "Unemployment": 5.4,
+            "FedFunds": 3.48
+        },
+        "Mar": {
+            "CPI": 30.9,
+            "Unemployment": 5.4,
+            "FedFunds": 3.43
+        },
+        "Apr": {
+            "CPI": 30.9,
+            "Unemployment": 5.3,
+            "FedFunds": 3.47
+        },
+        "May": {
+            "CPI": 30.9,
+            "Unemployment": 5.1,
+            "FedFunds": 3.5
+        },
+        "Jun": {
+            "CPI": 31.0,
+            "Unemployment": 5.2,
+            "FedFunds": 3.5
+        },
+        "Jul": {
+            "CPI": 31.1,
+            "Unemployment": 4.9,
+            "FedFunds": 3.42
+        },
+        "Aug": {
+            "CPI": 31.0,
+            "Unemployment": 5.0,
+            "FedFunds": 3.5
+        },
+        "Sep": {
+            "CPI": 31.1,
+            "Unemployment": 5.1,
+            "FedFunds": 3.45
+        },
+        "Oct": {
+            "CPI": 31.1,
+            "Unemployment": 5.1,
+            "FedFunds": 3.36
+        },
+        "Nov": {
+            "CPI": 31.2,
+            "Unemployment": 4.8,
+            "FedFunds": 3.52
+        },
+        "Dec": {
+            "CPI": 31.2,
+            "Unemployment": 5.0,
+            "FedFunds": 3.85
+        }
+    },
+    "1965": {
+        "Jan": {
+            "CPI": 31.2,
+            "Unemployment": 4.9,
+            "FedFunds": 3.9
+        },
+        "Feb": {
+            "CPI": 31.2,
+            "Unemployment": 5.1,
+            "FedFunds": 3.98
+        },
+        "Mar": {
+            "CPI": 31.3,
+            "Unemployment": 4.7,
+            "FedFunds": 4.05
+        },
+        "Apr": {
+            "CPI": 31.4,
+            "Unemployment": 4.8,
+            "FedFunds": 4.09
+        },
+        "May": {
+            "CPI": 31.4,
+            "Unemployment": 4.6,
+            "FedFunds": 4.1
+        },
+        "Jun": {
+            "CPI": 31.6,
+            "Unemployment": 4.6,
+            "FedFunds": 4.05
+        },
+        "Jul": {
+            "CPI": 31.6,
+            "Unemployment": 4.4,
+            "FedFunds": 4.09
+        },
+        "Aug": {
+            "CPI": 31.6,
+            "Unemployment": 4.4,
+            "FedFunds": 4.12
+        },
+        "Sep": {
+            "CPI": 31.6,
+            "Unemployment": 4.3,
+            "FedFunds": 4.02
+        },
+        "Oct": {
+            "CPI": 31.7,
+            "Unemployment": 4.2,
+            "FedFunds": 4.08
+        },
+        "Nov": {
+            "CPI": 31.7,
+            "Unemployment": 4.1,
+            "FedFunds": 4.1
+        },
+        "Dec": {
+            "CPI": 31.8,
+            "Unemployment": 4.0,
+            "FedFunds": 4.32
+        }
+    },
+    "1966": {
+        "Jan": {
+            "CPI": 31.8,
+            "Unemployment": 4.0,
+            "FedFunds": 4.42
+        },
+        "Feb": {
+            "CPI": 32.0,
+            "Unemployment": 3.8,
+            "FedFunds": 4.6
+        },
+        "Mar": {
+            "CPI": 32.1,
+            "Unemployment": 3.8,
+            "FedFunds": 4.66
+        },
+        "Apr": {
+            "CPI": 32.3,
+            "Unemployment": 3.8,
+            "FedFunds": 4.67
+        },
+        "May": {
+            "CPI": 32.3,
+            "Unemployment": 3.9,
+            "FedFunds": 4.9
+        },
+        "Jun": {
+            "CPI": 32.4,
+            "Unemployment": 3.8,
+            "FedFunds": 5.17
+        },
+        "Jul": {
+            "CPI": 32.5,
+            "Unemployment": 3.8,
+            "FedFunds": 5.3
+        },
+        "Aug": {
+            "CPI": 32.7,
+            "Unemployment": 3.8,
+            "FedFunds": 5.53
+        },
+        "Sep": {
+            "CPI": 32.7,
+            "Unemployment": 3.7,
+            "FedFunds": 5.4
+        },
+        "Oct": {
+            "CPI": 32.9,
+            "Unemployment": 3.7,
+            "FedFunds": 5.53
+        },
+        "Nov": {
+            "CPI": 32.9,
+            "Unemployment": 3.6,
+            "FedFunds": 5.76
+        },
+        "Dec": {
+            "CPI": 32.9,
+            "Unemployment": 3.8,
+            "FedFunds": 5.4
+        }
+    },
+    "1967": {
+        "Jan": {
+            "CPI": 32.9,
+            "Unemployment": 3.9,
+            "FedFunds": 4.94
+        },
+        "Feb": {
+            "CPI": 32.9,
+            "Unemployment": 3.8,
+            "FedFunds": 5.0
+        },
+        "Mar": {
+            "CPI": 33.0,
+            "Unemployment": 3.8,
+            "FedFunds": 4.53
+        },
+        "Apr": {
+            "CPI": 33.1,
+            "Unemployment": 3.8,
+            "FedFunds": 4.05
+        },
+        "May": {
+            "CPI": 33.2,
+            "Unemployment": 3.8,
+            "FedFunds": 3.94
+        },
+        "Jun": {
+            "CPI": 33.3,
+            "Unemployment": 3.9,
+            "FedFunds": 3.98
+        },
+        "Jul": {
+            "CPI": 33.4,
+            "Unemployment": 3.8,
+            "FedFunds": 3.79
+        },
+        "Aug": {
+            "CPI": 33.5,
+            "Unemployment": 3.8,
+            "FedFunds": 3.9
+        },
+        "Sep": {
+            "CPI": 33.6,
+            "Unemployment": 3.8,
+            "FedFunds": 3.99
+        },
+        "Oct": {
+            "CPI": 33.7,
+            "Unemployment": 4.0,
+            "FedFunds": 3.88
+        },
+        "Nov": {
+            "CPI": 33.8,
+            "Unemployment": 3.9,
+            "FedFunds": 4.13
+        },
+        "Dec": {
+            "CPI": 33.9,
+            "Unemployment": 3.8,
+            "FedFunds": 4.51
+        }
+    },
+    "1968": {
+        "Jan": {
+            "CPI": 34.1,
+            "Unemployment": 3.7,
+            "FedFunds": 4.61
+        },
+        "Feb": {
+            "CPI": 34.2,
+            "Unemployment": 3.8,
+            "FedFunds": 4.71
+        },
+        "Mar": {
+            "CPI": 34.3,
+            "Unemployment": 3.7,
+            "FedFunds": 5.05
+        },
+        "Apr": {
+            "CPI": 34.4,
+            "Unemployment": 3.5,
+            "FedFunds": 5.76
+        },
+        "May": {
+            "CPI": 34.5,
+            "Unemployment": 3.5,
+            "FedFunds": 6.12
+        },
+        "Jun": {
+            "CPI": 34.7,
+            "Unemployment": 3.7,
+            "FedFunds": 6.07
+        },
+        "Jul": {
+            "CPI": 34.9,
+            "Unemployment": 3.7,
+            "FedFunds": 6.03
+        },
+        "Aug": {
+            "CPI": 35.0,
+            "Unemployment": 3.5,
+            "FedFunds": 6.03
+        },
+        "Sep": {
+            "CPI": 35.1,
+            "Unemployment": 3.4,
+            "FedFunds": 5.78
+        },
+        "Oct": {
+            "CPI": 35.3,
+            "Unemployment": 3.4,
+            "FedFunds": 5.91
+        },
+        "Nov": {
+            "CPI": 35.4,
+            "Unemployment": 3.4,
+            "FedFunds": 5.82
+        },
+        "Dec": {
+            "CPI": 35.5,
+            "Unemployment": 3.4,
+            "FedFunds": 6.02
+        }
+    },
+    "1969": {
+        "Jan": {
+            "CPI": 35.6,
+            "Unemployment": 3.4,
+            "FedFunds": 6.3
+        },
+        "Feb": {
+            "CPI": 35.8,
+            "Unemployment": 3.4,
+            "FedFunds": 6.61
+        },
+        "Mar": {
+            "CPI": 36.1,
+            "Unemployment": 3.4,
+            "FedFunds": 6.79
+        },
+        "Apr": {
+            "CPI": 36.3,
+            "Unemployment": 3.4,
+            "FedFunds": 7.41
+        },
+        "May": {
+            "CPI": 36.4,
+            "Unemployment": 3.4,
+            "FedFunds": 8.67
+        },
+        "Jun": {
+            "CPI": 36.6,
+            "Unemployment": 3.5,
+            "FedFunds": 8.9
+        },
+        "Jul": {
+            "CPI": 36.8,
+            "Unemployment": 3.5,
+            "FedFunds": 8.61
+        },
+        "Aug": {
+            "CPI": 37.0,
+            "Unemployment": 3.5,
+            "FedFunds": 9.19
+        },
+        "Sep": {
+            "CPI": 37.1,
+            "Unemployment": 3.7,
+            "FedFunds": 9.15
+        },
+        "Oct": {
+            "CPI": 37.3,
+            "Unemployment": 3.7,
+            "FedFunds": 9.0
+        },
+        "Nov": {
+            "CPI": 37.5,
+            "Unemployment": 3.5,
+            "FedFunds": 8.85
+        },
+        "Dec": {
+            "CPI": 37.7,
+            "Unemployment": 3.5,
+            "FedFunds": 8.97
+        }
+    },
+    "1970": {
+        "Jan": {
+            "CPI": 37.8,
+            "Unemployment": 3.9,
+            "FedFunds": 8.98
+        },
+        "Feb": {
+            "CPI": 38.0,
+            "Unemployment": 4.2,
+            "FedFunds": 8.98
+        },
+        "Mar": {
+            "CPI": 38.2,
+            "Unemployment": 4.4,
+            "FedFunds": 7.76
+        },
+        "Apr": {
+            "CPI": 38.5,
+            "Unemployment": 4.6,
+            "FedFunds": 8.1
+        },
+        "May": {
+            "CPI": 38.6,
+            "Unemployment": 4.8,
+            "FedFunds": 7.95
+        },
+        "Jun": {
+            "CPI": 38.8,
+            "Unemployment": 4.9,
+            "FedFunds": 7.61
+        },
+        "Jul": {
+            "CPI": 39.0,
+            "Unemployment": 5.0,
+            "FedFunds": 7.21
+        },
+        "Aug": {
+            "CPI": 39.0,
+            "Unemployment": 5.1,
+            "FedFunds": 6.62
+        },
+        "Sep": {
+            "CPI": 39.2,
+            "Unemployment": 5.4,
+            "FedFunds": 6.29
+        },
+        "Oct": {
+            "CPI": 39.4,
+            "Unemployment": 5.5,
+            "FedFunds": 6.2
+        },
+        "Nov": {
+            "CPI": 39.6,
+            "Unemployment": 5.9,
+            "FedFunds": 5.6
+        },
+        "Dec": {
+            "CPI": 39.8,
+            "Unemployment": 6.1,
+            "FedFunds": 4.9
+        }
+    },
+    "1971": {
+        "Jan": {
+            "CPI": 39.8,
+            "Unemployment": 5.9,
+            "FedFunds": 4.14
+        },
+        "Feb": {
+            "CPI": 39.9,
+            "Unemployment": 5.9,
+            "FedFunds": 3.72
+        },
+        "Mar": {
+            "CPI": 40.0,
+            "Unemployment": 6.0,
+            "FedFunds": 3.71
+        },
+        "Apr": {
+            "CPI": 40.1,
+            "Unemployment": 5.9,
+            "FedFunds": 4.16
+        },
+        "May": {
+            "CPI": 40.3,
+            "Unemployment": 5.9,
+            "FedFunds": 4.63
+        },
+        "Jun": {
+            "CPI": 40.6,
+            "Unemployment": 5.9,
+            "FedFunds": 4.91
+        },
+        "Jul": {
+            "CPI": 40.7,
+            "Unemployment": 6.0,
+            "FedFunds": 5.31
+        },
+        "Aug": {
+            "CPI": 40.8,
+            "Unemployment": 6.1,
+            "FedFunds": 5.57
+        },
+        "Sep": {
+            "CPI": 40.8,
+            "Unemployment": 6.0,
+            "FedFunds": 5.55
+        },
+        "Oct": {
+            "CPI": 40.9,
+            "Unemployment": 5.8,
+            "FedFunds": 5.2
+        },
+        "Nov": {
+            "CPI": 40.9,
+            "Unemployment": 6.0,
+            "FedFunds": 4.91
+        },
+        "Dec": {
+            "CPI": 41.1,
+            "Unemployment": 6.0,
+            "FedFunds": 4.14
+        }
+    },
+    "1972": {
+        "Jan": {
+            "CPI": 41.1,
+            "Unemployment": 5.8,
+            "FedFunds": 3.51
+        },
+        "Feb": {
+            "CPI": 41.3,
+            "Unemployment": 5.7,
+            "FedFunds": 3.3
+        },
+        "Mar": {
+            "CPI": 41.4,
+            "Unemployment": 5.8,
+            "FedFunds": 3.83
+        },
+        "Apr": {
+            "CPI": 41.5,
+            "Unemployment": 5.7,
+            "FedFunds": 4.17
+        },
+        "May": {
+            "CPI": 41.6,
+            "Unemployment": 5.7,
+            "FedFunds": 4.27
+        },
+        "Jun": {
+            "CPI": 41.7,
+            "Unemployment": 5.7,
+            "FedFunds": 4.46
+        },
+        "Jul": {
+            "CPI": 41.9,
+            "Unemployment": 5.6,
+            "FedFunds": 4.55
+        },
+        "Aug": {
+            "CPI": 42.0,
+            "Unemployment": 5.6,
+            "FedFunds": 4.81
+        },
+        "Sep": {
+            "CPI": 42.1,
+            "Unemployment": 5.5,
+            "FedFunds": 4.87
+        },
+        "Oct": {
+            "CPI": 42.3,
+            "Unemployment": 5.6,
+            "FedFunds": 5.05
+        },
+        "Nov": {
+            "CPI": 42.4,
+            "Unemployment": 5.3,
+            "FedFunds": 5.06
+        },
+        "Dec": {
+            "CPI": 42.5,
+            "Unemployment": 5.2,
+            "FedFunds": 5.33
+        }
+    },
+    "1973": {
+        "Jan": {
+            "CPI": 42.6,
+            "Unemployment": 4.9,
+            "FedFunds": 5.94
+        },
+        "Feb": {
+            "CPI": 42.9,
+            "Unemployment": 5.0,
+            "FedFunds": 6.58
+        },
+        "Mar": {
+            "CPI": 43.3,
+            "Unemployment": 4.9,
+            "FedFunds": 7.09
+        },
+        "Apr": {
+            "CPI": 43.6,
+            "Unemployment": 5.0,
+            "FedFunds": 7.12
+        },
+        "May": {
+            "CPI": 43.9,
+            "Unemployment": 4.9,
+            "FedFunds": 7.84
+        },
+        "Jun": {
+            "CPI": 44.2,
+            "Unemployment": 4.9,
+            "FedFunds": 8.49
+        },
+        "Jul": {
+            "CPI": 44.3,
+            "Unemployment": 4.8,
+            "FedFunds": 10.4
+        },
+        "Aug": {
+            "CPI": 45.1,
+            "Unemployment": 4.8,
+            "FedFunds": 10.5
+        },
+        "Sep": {
+            "CPI": 45.2,
+            "Unemployment": 4.8,
+            "FedFunds": 10.78
+        },
+        "Oct": {
+            "CPI": 45.6,
+            "Unemployment": 4.6,
+            "FedFunds": 10.01
+        },
+        "Nov": {
+            "CPI": 45.9,
+            "Unemployment": 4.8,
+            "FedFunds": 10.03
+        },
+        "Dec": {
+            "CPI": 46.2,
+            "Unemployment": 4.9,
+            "FedFunds": 9.95
+        }
+    },
+    "1974": {
+        "Jan": {
+            "CPI": 46.6,
+            "Unemployment": 5.1,
+            "FedFunds": 9.65
+        },
+        "Feb": {
+            "CPI": 47.2,
+            "Unemployment": 5.2,
+            "FedFunds": 8.97
+        },
+        "Mar": {
+            "CPI": 47.8,
+            "Unemployment": 5.1,
+            "FedFunds": 9.35
+        },
+        "Apr": {
+            "CPI": 48.0,
+            "Unemployment": 5.1,
+            "FedFunds": 10.51
+        },
+        "May": {
+            "CPI": 48.6,
+            "Unemployment": 5.1,
+            "FedFunds": 11.31
+        },
+        "Jun": {
+            "CPI": 49.0,
+            "Unemployment": 5.4,
+            "FedFunds": 11.93
+        },
+        "Jul": {
+            "CPI": 49.4,
+            "Unemployment": 5.5,
+            "FedFunds": 12.92
+        },
+        "Aug": {
+            "CPI": 50.0,
+            "Unemployment": 5.5,
+            "FedFunds": 12.01
+        },
+        "Sep": {
+            "CPI": 50.6,
+            "Unemployment": 5.9,
+            "FedFunds": 11.34
+        },
+        "Oct": {
+            "CPI": 51.1,
+            "Unemployment": 6.0,
+            "FedFunds": 10.06
+        },
+        "Nov": {
+            "CPI": 51.5,
+            "Unemployment": 6.6,
+            "FedFunds": 9.45
+        },
+        "Dec": {
+            "CPI": 51.9,
+            "Unemployment": 7.2,
+            "FedFunds": 8.53
+        }
+    },
+    "1975": {
+        "Jan": {
+            "CPI": 52.1,
+            "Unemployment": 8.1,
+            "FedFunds": 7.13
+        },
+        "Feb": {
+            "CPI": 52.5,
+            "Unemployment": 8.1,
+            "FedFunds": 6.24
+        },
+        "Mar": {
+            "CPI": 52.7,
+            "Unemployment": 8.6,
+            "FedFunds": 5.54
+        },
+        "Apr": {
+            "CPI": 52.9,
+            "Unemployment": 8.8,
+            "FedFunds": 5.49
+        },
+        "May": {
+            "CPI": 53.2,
+            "Unemployment": 9.0,
+            "FedFunds": 5.22
+        },
+        "Jun": {
+            "CPI": 53.6,
+            "Unemployment": 8.8,
+            "FedFunds": 5.55
+        },
+        "Jul": {
+            "CPI": 54.2,
+            "Unemployment": 8.6,
+            "FedFunds": 6.1
+        },
+        "Aug": {
+            "CPI": 54.3,
+            "Unemployment": 8.4,
+            "FedFunds": 6.14
+        },
+        "Sep": {
+            "CPI": 54.6,
+            "Unemployment": 8.4,
+            "FedFunds": 6.24
+        },
+        "Oct": {
+            "CPI": 54.9,
+            "Unemployment": 8.4,
+            "FedFunds": 5.82
+        },
+        "Nov": {
+            "CPI": 55.3,
+            "Unemployment": 8.3,
+            "FedFunds": 5.22
+        },
+        "Dec": {
+            "CPI": 55.5,
+            "Unemployment": 8.2,
+            "FedFunds": 5.2
+        }
+    },
+    "1976": {
+        "Jan": {
+            "CPI": 55.6,
+            "Unemployment": 7.9,
+            "FedFunds": 4.87
+        },
+        "Feb": {
+            "CPI": 55.8,
+            "Unemployment": 7.7,
+            "FedFunds": 4.77
+        },
+        "Mar": {
+            "CPI": 55.9,
+            "Unemployment": 7.6,
+            "FedFunds": 4.84
+        },
+        "Apr": {
+            "CPI": 56.1,
+            "Unemployment": 7.7,
+            "FedFunds": 4.82
+        },
+        "May": {
+            "CPI": 56.5,
+            "Unemployment": 7.4,
+            "FedFunds": 5.29
+        },
+        "Jun": {
+            "CPI": 56.8,
+            "Unemployment": 7.6,
+            "FedFunds": 5.48
+        },
+        "Jul": {
+            "CPI": 57.1,
+            "Unemployment": 7.8,
+            "FedFunds": 5.31
+        },
+        "Aug": {
+            "CPI": 57.4,
+            "Unemployment": 7.8,
+            "FedFunds": 5.29
+        },
+        "Sep": {
+            "CPI": 57.6,
+            "Unemployment": 7.6,
+            "FedFunds": 5.25
+        },
+        "Oct": {
+            "CPI": 57.9,
+            "Unemployment": 7.7,
+            "FedFunds": 5.02
+        },
+        "Nov": {
+            "CPI": 58.0,
+            "Unemployment": 7.8,
+            "FedFunds": 4.95
+        },
+        "Dec": {
+            "CPI": 58.2,
+            "Unemployment": 7.8,
+            "FedFunds": 4.65
+        }
+    },
+    "1977": {
+        "Jan": {
+            "CPI": 58.5,
+            "Unemployment": 7.5,
+            "FedFunds": 4.61
+        },
+        "Feb": {
+            "CPI": 59.1,
+            "Unemployment": 7.6,
+            "FedFunds": 4.68
+        },
+        "Mar": {
+            "CPI": 59.5,
+            "Unemployment": 7.4,
+            "FedFunds": 4.69
+        },
+        "Apr": {
+            "CPI": 60.0,
+            "Unemployment": 7.2,
+            "FedFunds": 4.73
+        },
+        "May": {
+            "CPI": 60.3,
+            "Unemployment": 7.0,
+            "FedFunds": 5.35
+        },
+        "Jun": {
+            "CPI": 60.7,
+            "Unemployment": 7.2,
+            "FedFunds": 5.39
+        },
+        "Jul": {
+            "CPI": 61.0,
+            "Unemployment": 6.9,
+            "FedFunds": 5.42
+        },
+        "Aug": {
+            "CPI": 61.2,
+            "Unemployment": 7.0,
+            "FedFunds": 5.9
+        },
+        "Sep": {
+            "CPI": 61.4,
+            "Unemployment": 6.8,
+            "FedFunds": 6.14
+        },
+        "Oct": {
+            "CPI": 61.6,
+            "Unemployment": 6.8,
+            "FedFunds": 6.47
+        },
+        "Nov": {
+            "CPI": 61.9,
+            "Unemployment": 6.8,
+            "FedFunds": 6.51
+        },
+        "Dec": {
+            "CPI": 62.1,
+            "Unemployment": 6.4,
+            "FedFunds": 6.56
+        }
+    },
+    "1978": {
+        "Jan": {
+            "CPI": 62.5,
+            "Unemployment": 6.4,
+            "FedFunds": 6.7
+        },
+        "Feb": {
+            "CPI": 62.9,
+            "Unemployment": 6.3,
+            "FedFunds": 6.78
+        },
+        "Mar": {
+            "CPI": 63.4,
+            "Unemployment": 6.3,
+            "FedFunds": 6.79
+        },
+        "Apr": {
+            "CPI": 63.9,
+            "Unemployment": 6.1,
+            "FedFunds": 6.89
+        },
+        "May": {
+            "CPI": 64.5,
+            "Unemployment": 6.0,
+            "FedFunds": 7.36
+        },
+        "Jun": {
+            "CPI": 65.2,
+            "Unemployment": 5.9,
+            "FedFunds": 7.6
+        },
+        "Jul": {
+            "CPI": 65.7,
+            "Unemployment": 6.2,
+            "FedFunds": 7.81
+        },
+        "Aug": {
+            "CPI": 66.0,
+            "Unemployment": 5.9,
+            "FedFunds": 8.04
+        },
+        "Sep": {
+            "CPI": 66.5,
+            "Unemployment": 6.0,
+            "FedFunds": 8.45
+        },
+        "Oct": {
+            "CPI": 67.1,
+            "Unemployment": 5.8,
+            "FedFunds": 8.96
+        },
+        "Nov": {
+            "CPI": 67.4,
+            "Unemployment": 5.9,
+            "FedFunds": 9.76
+        },
+        "Dec": {
+            "CPI": 67.7,
+            "Unemployment": 6.0,
+            "FedFunds": 10.03
+        }
+    },
+    "1979": {
+        "Jan": {
+            "CPI": 68.3,
+            "Unemployment": 5.9,
+            "FedFunds": 10.07
+        },
+        "Feb": {
+            "CPI": 69.1,
+            "Unemployment": 5.9,
+            "FedFunds": 10.06
+        },
+        "Mar": {
+            "CPI": 69.8,
+            "Unemployment": 5.8,
+            "FedFunds": 10.09
+        },
+        "Apr": {
+            "CPI": 70.6,
+            "Unemployment": 5.8,
+            "FedFunds": 10.01
+        },
+        "May": {
+            "CPI": 71.5,
+            "Unemployment": 5.6,
+            "FedFunds": 10.24
+        },
+        "Jun": {
+            "CPI": 72.3,
+            "Unemployment": 5.7,
+            "FedFunds": 10.29
+        },
+        "Jul": {
+            "CPI": 73.1,
+            "Unemployment": 5.7,
+            "FedFunds": 10.47
+        },
+        "Aug": {
+            "CPI": 73.8,
+            "Unemployment": 6.0,
+            "FedFunds": 10.94
+        },
+        "Sep": {
+            "CPI": 74.6,
+            "Unemployment": 5.9,
+            "FedFunds": 11.43
+        },
+        "Oct": {
+            "CPI": 75.2,
+            "Unemployment": 6.0,
+            "FedFunds": 13.77
+        },
+        "Nov": {
+            "CPI": 75.9,
+            "Unemployment": 5.9,
+            "FedFunds": 13.18
+        },
+        "Dec": {
+            "CPI": 76.7,
+            "Unemployment": 6.0,
+            "FedFunds": 13.78
+        }
+    },
+    "1980": {
+        "Jan": {
+            "CPI": 77.8,
+            "Unemployment": 6.3,
+            "FedFunds": 13.82
+        },
+        "Feb": {
+            "CPI": 78.9,
+            "Unemployment": 6.3,
+            "FedFunds": 14.13
+        },
+        "Mar": {
+            "CPI": 80.1,
+            "Unemployment": 6.3,
+            "FedFunds": 17.19
+        },
+        "Apr": {
+            "CPI": 81.0,
+            "Unemployment": 6.9,
+            "FedFunds": 17.61
+        },
+        "May": {
+            "CPI": 81.8,
+            "Unemployment": 7.5,
+            "FedFunds": 10.98
+        },
+        "Jun": {
+            "CPI": 82.7,
+            "Unemployment": 7.6,
+            "FedFunds": 9.47
+        },
+        "Jul": {
+            "CPI": 82.7,
+            "Unemployment": 7.8,
+            "FedFunds": 9.03
+        },
+        "Aug": {
+            "CPI": 83.3,
+            "Unemployment": 7.7,
+            "FedFunds": 9.61
+        },
+        "Sep": {
+            "CPI": 84.0,
+            "Unemployment": 7.5,
+            "FedFunds": 10.87
+        },
+        "Oct": {
+            "CPI": 84.8,
+            "Unemployment": 7.5,
+            "FedFunds": 12.81
+        },
+        "Nov": {
+            "CPI": 85.5,
+            "Unemployment": 7.5,
+            "FedFunds": 15.85
+        },
+        "Dec": {
+            "CPI": 86.3,
+            "Unemployment": 7.2,
+            "FedFunds": 18.9
+        }
+    },
+    "1981": {
+        "Jan": {
+            "CPI": 87.0,
+            "Unemployment": 7.5,
+            "FedFunds": 19.08
+        },
+        "Feb": {
+            "CPI": 87.9,
+            "Unemployment": 7.4,
+            "FedFunds": 15.93
+        },
+        "Mar": {
+            "CPI": 88.5,
+            "Unemployment": 7.4,
+            "FedFunds": 14.7
+        },
+        "Apr": {
+            "CPI": 89.1,
+            "Unemployment": 7.2,
+            "FedFunds": 15.72
+        },
+        "May": {
+            "CPI": 89.8,
+            "Unemployment": 7.5,
+            "FedFunds": 18.52
+        },
+        "Jun": {
+            "CPI": 90.6,
+            "Unemployment": 7.5,
+            "FedFunds": 19.1
+        },
+        "Jul": {
+            "CPI": 91.6,
+            "Unemployment": 7.2,
+            "FedFunds": 19.04
+        },
+        "Aug": {
+            "CPI": 92.3,
+            "Unemployment": 7.4,
+            "FedFunds": 17.82
+        },
+        "Sep": {
+            "CPI": 93.2,
+            "Unemployment": 7.6,
+            "FedFunds": 15.87
+        },
+        "Oct": {
+            "CPI": 93.4,
+            "Unemployment": 7.9,
+            "FedFunds": 15.08
+        },
+        "Nov": {
+            "CPI": 93.7,
+            "Unemployment": 8.3,
+            "FedFunds": 13.31
+        },
+        "Dec": {
+            "CPI": 94.0,
+            "Unemployment": 8.5,
+            "FedFunds": 12.37
+        }
+    },
+    "1982": {
+        "Jan": {
+            "CPI": 94.3,
+            "Unemployment": 8.6,
+            "FedFunds": 13.22
+        },
+        "Feb": {
+            "CPI": 94.6,
+            "Unemployment": 8.9,
+            "FedFunds": 14.78
+        },
+        "Mar": {
+            "CPI": 94.5,
+            "Unemployment": 9.0,
+            "FedFunds": 14.68
+        },
+        "Apr": {
+            "CPI": 94.9,
+            "Unemployment": 9.3,
+            "FedFunds": 14.94
+        },
+        "May": {
+            "CPI": 95.8,
+            "Unemployment": 9.4,
+            "FedFunds": 14.45
+        },
+        "Jun": {
+            "CPI": 97.0,
+            "Unemployment": 9.6,
+            "FedFunds": 14.15
+        },
+        "Jul": {
+            "CPI": 97.5,
+            "Unemployment": 9.8,
+            "FedFunds": 12.59
+        },
+        "Aug": {
+            "CPI": 97.7,
+            "Unemployment": 9.8,
+            "FedFunds": 10.12
+        },
+        "Sep": {
+            "CPI": 97.9,
+            "Unemployment": 10.1,
+            "FedFunds": 10.31
+        },
+        "Oct": {
+            "CPI": 98.2,
+            "Unemployment": 10.4,
+            "FedFunds": 9.71
+        },
+        "Nov": {
+            "CPI": 98.0,
+            "Unemployment": 10.8,
+            "FedFunds": 9.2
+        },
+        "Dec": {
+            "CPI": 97.6,
+            "Unemployment": 10.8,
+            "FedFunds": 8.95
+        }
+    },
+    "1983": {
+        "Jan": {
+            "CPI": 97.8,
+            "Unemployment": 10.4,
+            "FedFunds": 8.68
+        },
+        "Feb": {
+            "CPI": 97.9,
+            "Unemployment": 10.4,
+            "FedFunds": 8.51
+        },
+        "Mar": {
+            "CPI": 97.9,
+            "Unemployment": 10.3,
+            "FedFunds": 8.77
+        },
+        "Apr": {
+            "CPI": 98.6,
+            "Unemployment": 10.2,
+            "FedFunds": 8.8
+        },
+        "May": {
+            "CPI": 99.2,
+            "Unemployment": 10.1,
+            "FedFunds": 8.63
+        },
+        "Jun": {
+            "CPI": 99.5,
+            "Unemployment": 10.1,
+            "FedFunds": 8.98
+        },
+        "Jul": {
+            "CPI": 99.9,
+            "Unemployment": 9.4,
+            "FedFunds": 9.37
+        },
+        "Aug": {
+            "CPI": 100.2,
+            "Unemployment": 9.5,
+            "FedFunds": 9.56
+        },
+        "Sep": {
+            "CPI": 100.7,
+            "Unemployment": 9.2,
+            "FedFunds": 9.45
+        },
+        "Oct": {
+            "CPI": 101.0,
+            "Unemployment": 8.8,
+            "FedFunds": 9.48
+        },
+        "Nov": {
+            "CPI": 101.2,
+            "Unemployment": 8.5,
+            "FedFunds": 9.34
+        },
+        "Dec": {
+            "CPI": 101.3,
+            "Unemployment": 8.3,
+            "FedFunds": 9.47
+        }
+    },
+    "1984": {
+        "Jan": {
+            "CPI": 101.9,
+            "Unemployment": 8.0,
+            "FedFunds": 9.56
+        },
+        "Feb": {
+            "CPI": 102.4,
+            "Unemployment": 7.8,
+            "FedFunds": 9.59
+        },
+        "Mar": {
+            "CPI": 102.6,
+            "Unemployment": 7.8,
+            "FedFunds": 9.91
+        },
+        "Apr": {
+            "CPI": 103.1,
+            "Unemployment": 7.7,
+            "FedFunds": 10.29
+        },
+        "May": {
+            "CPI": 103.4,
+            "Unemployment": 7.4,
+            "FedFunds": 10.32
+        },
+        "Jun": {
+            "CPI": 103.7,
+            "Unemployment": 7.2,
+            "FedFunds": 11.06
+        },
+        "Jul": {
+            "CPI": 104.1,
+            "Unemployment": 7.5,
+            "FedFunds": 11.23
+        },
+        "Aug": {
+            "CPI": 104.5,
+            "Unemployment": 7.5,
+            "FedFunds": 11.64
+        },
+        "Sep": {
+            "CPI": 105.0,
+            "Unemployment": 7.3,
+            "FedFunds": 11.3
+        },
+        "Oct": {
+            "CPI": 105.3,
+            "Unemployment": 7.4,
+            "FedFunds": 9.99
+        },
+        "Nov": {
+            "CPI": 105.3,
+            "Unemployment": 7.2,
+            "FedFunds": 9.43
+        },
+        "Dec": {
+            "CPI": 105.3,
+            "Unemployment": 7.3,
+            "FedFunds": 8.38
+        }
+    },
+    "1985": {
+        "Jan": {
+            "CPI": 105.5,
+            "Unemployment": 7.3,
+            "FedFunds": 8.35
+        },
+        "Feb": {
+            "CPI": 106.0,
+            "Unemployment": 7.2,
+            "FedFunds": 8.5
+        },
+        "Mar": {
+            "CPI": 106.4,
+            "Unemployment": 7.2,
+            "FedFunds": 8.58
+        },
+        "Apr": {
+            "CPI": 106.9,
+            "Unemployment": 7.3,
+            "FedFunds": 8.27
+        },
+        "May": {
+            "CPI": 107.3,
+            "Unemployment": 7.2,
+            "FedFunds": 7.97
+        },
+        "Jun": {
+            "CPI": 107.6,
+            "Unemployment": 7.4,
+            "FedFunds": 7.53
+        },
+        "Jul": {
+            "CPI": 107.8,
+            "Unemployment": 7.4,
+            "FedFunds": 7.88
+        },
+        "Aug": {
+            "CPI": 108.0,
+            "Unemployment": 7.1,
+            "FedFunds": 7.9
+        },
+        "Sep": {
+            "CPI": 108.3,
+            "Unemployment": 7.1,
+            "FedFunds": 7.92
+        },
+        "Oct": {
+            "CPI": 108.7,
+            "Unemployment": 7.1,
+            "FedFunds": 7.99
+        },
+        "Nov": {
+            "CPI": 109.0,
+            "Unemployment": 7.0,
+            "FedFunds": 8.05
+        },
+        "Dec": {
+            "CPI": 109.3,
+            "Unemployment": 7.0,
+            "FedFunds": 8.27
+        }
+    },
+    "1986": {
+        "Jan": {
+            "CPI": 109.6,
+            "Unemployment": 6.7,
+            "FedFunds": 8.14
+        },
+        "Feb": {
+            "CPI": 109.3,
+            "Unemployment": 7.2,
+            "FedFunds": 7.86
+        },
+        "Mar": {
+            "CPI": 108.8,
+            "Unemployment": 7.2,
+            "FedFunds": 7.48
+        },
+        "Apr": {
+            "CPI": 108.6,
+            "Unemployment": 7.1,
+            "FedFunds": 6.99
+        },
+        "May": {
+            "CPI": 108.9,
+            "Unemployment": 7.2,
+            "FedFunds": 6.85
+        },
+        "Jun": {
+            "CPI": 109.5,
+            "Unemployment": 7.2,
+            "FedFunds": 6.92
+        },
+        "Jul": {
+            "CPI": 109.5,
+            "Unemployment": 7.0,
+            "FedFunds": 6.56
+        },
+        "Aug": {
+            "CPI": 109.7,
+            "Unemployment": 6.9,
+            "FedFunds": 6.17
+        },
+        "Sep": {
+            "CPI": 110.2,
+            "Unemployment": 7.0,
+            "FedFunds": 5.89
+        },
+        "Oct": {
+            "CPI": 110.3,
+            "Unemployment": 7.0,
+            "FedFunds": 5.85
+        },
+        "Nov": {
+            "CPI": 110.4,
+            "Unemployment": 6.9,
+            "FedFunds": 6.04
+        },
+        "Dec": {
+            "CPI": 110.5,
+            "Unemployment": 6.6,
+            "FedFunds": 6.91
+        }
+    },
+    "1987": {
+        "Jan": {
+            "CPI": 111.2,
+            "Unemployment": 6.6,
+            "FedFunds": 6.43
+        },
+        "Feb": {
+            "CPI": 111.6,
+            "Unemployment": 6.6,
+            "FedFunds": 6.1
+        },
+        "Mar": {
+            "CPI": 112.1,
+            "Unemployment": 6.6,
+            "FedFunds": 6.13
+        },
+        "Apr": {
+            "CPI": 112.7,
+            "Unemployment": 6.3,
+            "FedFunds": 6.37
+        },
+        "May": {
+            "CPI": 113.1,
+            "Unemployment": 6.3,
+            "FedFunds": 6.85
+        },
+        "Jun": {
+            "CPI": 113.5,
+            "Unemployment": 6.2,
+            "FedFunds": 6.73
+        },
+        "Jul": {
+            "CPI": 113.8,
+            "Unemployment": 6.1,
+            "FedFunds": 6.58
+        },
+        "Aug": {
+            "CPI": 114.4,
+            "Unemployment": 6.0,
+            "FedFunds": 6.73
+        },
+        "Sep": {
+            "CPI": 115.0,
+            "Unemployment": 5.9,
+            "FedFunds": 7.22
+        },
+        "Oct": {
+            "CPI": 115.3,
+            "Unemployment": 6.0,
+            "FedFunds": 7.29
+        },
+        "Nov": {
+            "CPI": 115.4,
+            "Unemployment": 5.8,
+            "FedFunds": 6.69
+        },
+        "Dec": {
+            "CPI": 115.4,
+            "Unemployment": 5.7,
+            "FedFunds": 6.77
+        }
+    },
+    "1988": {
+        "Jan": {
+            "CPI": 115.7,
+            "Unemployment": 5.7,
+            "FedFunds": 6.83
+        },
+        "Feb": {
+            "CPI": 116.0,
+            "Unemployment": 5.7,
+            "FedFunds": 6.58
+        },
+        "Mar": {
+            "CPI": 116.5,
+            "Unemployment": 5.7,
+            "FedFunds": 6.58
+        },
+        "Apr": {
+            "CPI": 117.1,
+            "Unemployment": 5.4,
+            "FedFunds": 6.87
+        },
+        "May": {
+            "CPI": 117.5,
+            "Unemployment": 5.6,
+            "FedFunds": 7.09
+        },
+        "Jun": {
+            "CPI": 118.0,
+            "Unemployment": 5.4,
+            "FedFunds": 7.51
+        },
+        "Jul": {
+            "CPI": 118.5,
+            "Unemployment": 5.4,
+            "FedFunds": 7.75
+        },
+        "Aug": {
+            "CPI": 119.0,
+            "Unemployment": 5.6,
+            "FedFunds": 8.01
+        },
+        "Sep": {
+            "CPI": 119.8,
+            "Unemployment": 5.4,
+            "FedFunds": 8.19
+        },
+        "Oct": {
+            "CPI": 120.2,
+            "Unemployment": 5.4,
+            "FedFunds": 8.3
+        },
+        "Nov": {
+            "CPI": 120.3,
+            "Unemployment": 5.3,
+            "FedFunds": 8.35
+        },
+        "Dec": {
+            "CPI": 120.5,
+            "Unemployment": 5.3,
+            "FedFunds": 8.76
+        }
+    },
+    "1989": {
+        "Jan": {
+            "CPI": 121.1,
+            "Unemployment": 5.4,
+            "FedFunds": 9.12
+        },
+        "Feb": {
+            "CPI": 121.6,
+            "Unemployment": 5.2,
+            "FedFunds": 9.36
+        },
+        "Mar": {
+            "CPI": 122.3,
+            "Unemployment": 5.0,
+            "FedFunds": 9.85
+        },
+        "Apr": {
+            "CPI": 123.1,
+            "Unemployment": 5.2,
+            "FedFunds": 9.84
+        },
+        "May": {
+            "CPI": 123.8,
+            "Unemployment": 5.2,
+            "FedFunds": 9.81
+        },
+        "Jun": {
+            "CPI": 124.1,
+            "Unemployment": 5.3,
+            "FedFunds": 9.53
+        },
+        "Jul": {
+            "CPI": 124.4,
+            "Unemployment": 5.2,
+            "FedFunds": 9.24
+        },
+        "Aug": {
+            "CPI": 124.6,
+            "Unemployment": 5.2,
+            "FedFunds": 8.99
+        },
+        "Sep": {
+            "CPI": 125.0,
+            "Unemployment": 5.3,
+            "FedFunds": 9.02
+        },
+        "Oct": {
+            "CPI": 125.6,
+            "Unemployment": 5.3,
+            "FedFunds": 8.84
+        },
+        "Nov": {
+            "CPI": 125.9,
+            "Unemployment": 5.4,
+            "FedFunds": 8.55
+        },
+        "Dec": {
+            "CPI": 126.1,
+            "Unemployment": 5.4,
+            "FedFunds": 8.45
+        }
+    },
+    "1990": {
+        "Jan": {
+            "CPI": 127.4,
+            "Unemployment": 5.4,
+            "FedFunds": 8.23
+        },
+        "Feb": {
+            "CPI": 128.0,
+            "Unemployment": 5.3,
+            "FedFunds": 8.24
+        },
+        "Mar": {
+            "CPI": 128.7,
+            "Unemployment": 5.2,
+            "FedFunds": 8.28
+        },
+        "Apr": {
+            "CPI": 128.9,
+            "Unemployment": 5.4,
+            "FedFunds": 8.26
+        },
+        "May": {
+            "CPI": 129.2,
+            "Unemployment": 5.4,
+            "FedFunds": 8.18
+        },
+        "Jun": {
+            "CPI": 129.9,
+            "Unemployment": 5.2,
+            "FedFunds": 8.29
+        },
+        "Jul": {
+            "CPI": 130.4,
+            "Unemployment": 5.5,
+            "FedFunds": 8.15
+        },
+        "Aug": {
+            "CPI": 131.6,
+            "Unemployment": 5.7,
+            "FedFunds": 8.13
+        },
+        "Sep": {
+            "CPI": 132.7,
+            "Unemployment": 5.9,
+            "FedFunds": 8.2
+        },
+        "Oct": {
+            "CPI": 133.5,
+            "Unemployment": 5.9,
+            "FedFunds": 8.11
+        },
+        "Nov": {
+            "CPI": 133.8,
+            "Unemployment": 6.2,
+            "FedFunds": 7.81
+        },
+        "Dec": {
+            "CPI": 133.8,
+            "Unemployment": 6.3,
+            "FedFunds": 7.31
+        }
+    },
+    "1991": {
+        "Jan": {
+            "CPI": 134.6,
+            "Unemployment": 6.4,
+            "FedFunds": 6.91
+        },
+        "Feb": {
+            "CPI": 134.8,
+            "Unemployment": 6.6,
+            "FedFunds": 6.25
+        },
+        "Mar": {
+            "CPI": 135.0,
+            "Unemployment": 6.8,
+            "FedFunds": 6.12
+        },
+        "Apr": {
+            "CPI": 135.2,
+            "Unemployment": 6.7,
+            "FedFunds": 5.91
+        },
+        "May": {
+            "CPI": 135.6,
+            "Unemployment": 6.9,
+            "FedFunds": 5.78
+        },
+        "Jun": {
+            "CPI": 136.0,
+            "Unemployment": 6.9,
+            "FedFunds": 5.9
+        },
+        "Jul": {
+            "CPI": 136.2,
+            "Unemployment": 6.8,
+            "FedFunds": 5.82
+        },
+        "Aug": {
+            "CPI": 136.6,
+            "Unemployment": 6.9,
+            "FedFunds": 5.66
+        },
+        "Sep": {
+            "CPI": 137.2,
+            "Unemployment": 6.9,
+            "FedFunds": 5.45
+        },
+        "Oct": {
+            "CPI": 137.4,
+            "Unemployment": 7.0,
+            "FedFunds": 5.21
+        },
+        "Nov": {
+            "CPI": 137.8,
+            "Unemployment": 7.0,
+            "FedFunds": 4.81
+        },
+        "Dec": {
+            "CPI": 137.9,
+            "Unemployment": 7.3,
+            "FedFunds": 4.43
+        }
+    },
+    "1992": {
+        "Jan": {
+            "CPI": 138.1,
+            "Unemployment": 7.3,
+            "FedFunds": 4.03
+        },
+        "Feb": {
+            "CPI": 138.6,
+            "Unemployment": 7.4,
+            "FedFunds": 4.06
+        },
+        "Mar": {
+            "CPI": 139.3,
+            "Unemployment": 7.4,
+            "FedFunds": 3.98
+        },
+        "Apr": {
+            "CPI": 139.5,
+            "Unemployment": 7.4,
+            "FedFunds": 3.73
+        },
+        "May": {
+            "CPI": 139.7,
+            "Unemployment": 7.6,
+            "FedFunds": 3.82
+        },
+        "Jun": {
+            "CPI": 140.2,
+            "Unemployment": 7.8,
+            "FedFunds": 3.76
+        },
+        "Jul": {
+            "CPI": 140.5,
+            "Unemployment": 7.7,
+            "FedFunds": 3.25
+        },
+        "Aug": {
+            "CPI": 140.9,
+            "Unemployment": 7.6,
+            "FedFunds": 3.3
+        },
+        "Sep": {
+            "CPI": 141.3,
+            "Unemployment": 7.6,
+            "FedFunds": 3.22
+        },
+        "Oct": {
+            "CPI": 141.8,
+            "Unemployment": 7.3,
+            "FedFunds": 3.1
+        },
+        "Nov": {
+            "CPI": 142.0,
+            "Unemployment": 7.4,
+            "FedFunds": 3.09
+        },
+        "Dec": {
+            "CPI": 141.9,
+            "Unemployment": 7.4,
+            "FedFunds": 2.92
+        }
+    },
+    "1993": {
+        "Jan": {
+            "CPI": 142.6,
+            "Unemployment": 7.3,
+            "FedFunds": 3.02
+        },
+        "Feb": {
+            "CPI": 143.1,
+            "Unemployment": 7.1,
+            "FedFunds": 3.03
+        },
+        "Mar": {
+            "CPI": 143.6,
+            "Unemployment": 7.0,
+            "FedFunds": 3.07
+        },
+        "Apr": {
+            "CPI": 144.0,
+            "Unemployment": 7.1,
+            "FedFunds": 2.96
+        },
+        "May": {
+            "CPI": 144.2,
+            "Unemployment": 7.1,
+            "FedFunds": 3.0
+        },
+        "Jun": {
+            "CPI": 144.4,
+            "Unemployment": 7.0,
+            "FedFunds": 3.04
+        },
+        "Jul": {
+            "CPI": 144.4,
+            "Unemployment": 6.9,
+            "FedFunds": 3.06
+        },
+        "Aug": {
+            "CPI": 144.8,
+            "Unemployment": 6.8,
+            "FedFunds": 3.03
+        },
+        "Sep": {
+            "CPI": 145.1,
+            "Unemployment": 6.7,
+            "FedFunds": 3.09
+        },
+        "Oct": {
+            "CPI": 145.7,
+            "Unemployment": 6.8,
+            "FedFunds": 2.99
+        },
+        "Nov": {
+            "CPI": 145.8,
+            "Unemployment": 6.6,
+            "FedFunds": 3.02
+        },
+        "Dec": {
+            "CPI": 145.8,
+            "Unemployment": 6.5,
+            "FedFunds": 2.96
+        }
+    },
+    "1994": {
+        "Jan": {
+            "CPI": 146.2,
+            "Unemployment": 6.6,
+            "FedFunds": 3.05
+        },
+        "Feb": {
+            "CPI": 146.7,
+            "Unemployment": 6.6,
+            "FedFunds": 3.25
+        },
+        "Mar": {
+            "CPI": 147.2,
+            "Unemployment": 6.5,
+            "FedFunds": 3.34
+        },
+        "Apr": {
+            "CPI": 147.4,
+            "Unemployment": 6.4,
+            "FedFunds": 3.56
+        },
+        "May": {
+            "CPI": 147.5,
+            "Unemployment": 6.1,
+            "FedFunds": 4.01
+        },
+        "Jun": {
+            "CPI": 148.0,
+            "Unemployment": 6.1,
+            "FedFunds": 4.25
+        },
+        "Jul": {
+            "CPI": 148.4,
+            "Unemployment": 6.1,
+            "FedFunds": 4.26
+        },
+        "Aug": {
+            "CPI": 149.0,
+            "Unemployment": 6.0,
+            "FedFunds": 4.47
+        },
+        "Sep": {
+            "CPI": 149.4,
+            "Unemployment": 5.9,
+            "FedFunds": 4.73
+        },
+        "Oct": {
+            "CPI": 149.5,
+            "Unemployment": 5.8,
+            "FedFunds": 4.76
+        },
+        "Nov": {
+            "CPI": 149.7,
+            "Unemployment": 5.6,
+            "FedFunds": 5.29
+        },
+        "Dec": {
+            "CPI": 149.7,
+            "Unemployment": 5.5,
+            "FedFunds": 5.45
+        }
+    },
+    "1995": {
+        "Jan": {
+            "CPI": 150.3,
+            "Unemployment": 5.6,
+            "FedFunds": 5.53
+        },
+        "Feb": {
+            "CPI": 150.9,
+            "Unemployment": 5.4,
+            "FedFunds": 5.92
+        },
+        "Mar": {
+            "CPI": 151.4,
+            "Unemployment": 5.4,
+            "FedFunds": 5.98
+        },
+        "Apr": {
+            "CPI": 151.9,
+            "Unemployment": 5.8,
+            "FedFunds": 6.05
+        },
+        "May": {
+            "CPI": 152.2,
+            "Unemployment": 5.6,
+            "FedFunds": 6.01
+        },
+        "Jun": {
+            "CPI": 152.5,
+            "Unemployment": 5.6,
+            "FedFunds": 6.0
+        },
+        "Jul": {
+            "CPI": 152.5,
+            "Unemployment": 5.7,
+            "FedFunds": 5.85
+        },
+        "Aug": {
+            "CPI": 152.9,
+            "Unemployment": 5.7,
+            "FedFunds": 5.74
+        },
+        "Sep": {
+            "CPI": 153.2,
+            "Unemployment": 5.6,
+            "FedFunds": 5.8
+        },
+        "Oct": {
+            "CPI": 153.7,
+            "Unemployment": 5.5,
+            "FedFunds": 5.76
+        },
+        "Nov": {
+            "CPI": 153.6,
+            "Unemployment": 5.6,
+            "FedFunds": 5.8
+        },
+        "Dec": {
+            "CPI": 153.5,
+            "Unemployment": 5.6,
+            "FedFunds": 5.6
+        }
+    },
+    "1996": {
+        "Jan": {
+            "CPI": 154.4,
+            "Unemployment": 5.6,
+            "FedFunds": 5.56
+        },
+        "Feb": {
+            "CPI": 154.9,
+            "Unemployment": 5.5,
+            "FedFunds": 5.22
+        },
+        "Mar": {
+            "CPI": 155.7,
+            "Unemployment": 5.5,
+            "FedFunds": 5.31
+        },
+        "Apr": {
+            "CPI": 156.3,
+            "Unemployment": 5.6,
+            "FedFunds": 5.22
+        },
+        "May": {
+            "CPI": 156.6,
+            "Unemployment": 5.6,
+            "FedFunds": 5.24
+        },
+        "Jun": {
+            "CPI": 156.7,
+            "Unemployment": 5.3,
+            "FedFunds": 5.27
+        },
+        "Jul": {
+            "CPI": 157.0,
+            "Unemployment": 5.5,
+            "FedFunds": 5.4
+        },
+        "Aug": {
+            "CPI": 157.3,
+            "Unemployment": 5.1,
+            "FedFunds": 5.22
+        },
+        "Sep": {
+            "CPI": 157.8,
+            "Unemployment": 5.2,
+            "FedFunds": 5.3
+        },
+        "Oct": {
+            "CPI": 158.3,
+            "Unemployment": 5.2,
+            "FedFunds": 5.24
+        },
+        "Nov": {
+            "CPI": 158.6,
+            "Unemployment": 5.4,
+            "FedFunds": 5.31
+        },
+        "Dec": {
+            "CPI": 158.6,
+            "Unemployment": 5.4,
+            "FedFunds": 5.29
+        }
+    },
+    "1997": {
+        "Jan": {
+            "CPI": 159.1,
+            "Unemployment": 5.3,
+            "FedFunds": 5.25
+        },
+        "Feb": {
+            "CPI": 159.6,
+            "Unemployment": 5.2,
+            "FedFunds": 5.19
+        },
+        "Mar": {
+            "CPI": 160.0,
+            "Unemployment": 5.2,
+            "FedFunds": 5.39
+        },
+        "Apr": {
+            "CPI": 160.2,
+            "Unemployment": 5.1,
+            "FedFunds": 5.51
+        },
+        "May": {
+            "CPI": 160.1,
+            "Unemployment": 4.9,
+            "FedFunds": 5.5
+        },
+        "Jun": {
+            "CPI": 160.3,
+            "Unemployment": 5.0,
+            "FedFunds": 5.56
+        },
+        "Jul": {
+            "CPI": 160.5,
+            "Unemployment": 4.9,
+            "FedFunds": 5.52
+        },
+        "Aug": {
+            "CPI": 160.8,
+            "Unemployment": 4.8,
+            "FedFunds": 5.54
+        },
+        "Sep": {
+            "CPI": 161.2,
+            "Unemployment": 4.9,
+            "FedFunds": 5.54
+        },
+        "Oct": {
+            "CPI": 161.6,
+            "Unemployment": 4.7,
+            "FedFunds": 5.5
+        },
+        "Nov": {
+            "CPI": 161.5,
+            "Unemployment": 4.6,
+            "FedFunds": 5.52
+        },
+        "Dec": {
+            "CPI": 161.3,
+            "Unemployment": 4.7,
+            "FedFunds": 5.5
+        }
+    },
+    "1998": {
+        "Jan": {
+            "CPI": 161.6,
+            "Unemployment": 4.6,
+            "FedFunds": 5.56
+        },
+        "Feb": {
+            "CPI": 161.9,
+            "Unemployment": 4.6,
+            "FedFunds": 5.51
+        },
+        "Mar": {
+            "CPI": 162.2,
+            "Unemployment": 4.7,
+            "FedFunds": 5.49
+        },
+        "Apr": {
+            "CPI": 162.5,
+            "Unemployment": 4.3,
+            "FedFunds": 5.45
+        },
+        "May": {
+            "CPI": 162.8,
+            "Unemployment": 4.4,
+            "FedFunds": 5.49
+        },
+        "Jun": {
+            "CPI": 163.0,
+            "Unemployment": 4.5,
+            "FedFunds": 5.56
+        },
+        "Jul": {
+            "CPI": 163.2,
+            "Unemployment": 4.5,
+            "FedFunds": 5.54
+        },
+        "Aug": {
+            "CPI": 163.4,
+            "Unemployment": 4.5,
+            "FedFunds": 5.55
+        },
+        "Sep": {
+            "CPI": 163.6,
+            "Unemployment": 4.6,
+            "FedFunds": 5.51
+        },
+        "Oct": {
+            "CPI": 164.0,
+            "Unemployment": 4.5,
+            "FedFunds": 5.07
+        },
+        "Nov": {
+            "CPI": 164.0,
+            "Unemployment": 4.4,
+            "FedFunds": 4.83
+        },
+        "Dec": {
+            "CPI": 163.9,
+            "Unemployment": 4.4,
+            "FedFunds": 4.68
+        }
+    },
+    "1999": {
+        "Jan": {
+            "CPI": 164.3,
+            "Unemployment": 4.3,
+            "FedFunds": 4.63
+        },
+        "Feb": {
+            "CPI": 164.5,
+            "Unemployment": 4.4,
+            "FedFunds": 4.76
+        },
+        "Mar": {
+            "CPI": 165.0,
+            "Unemployment": 4.2,
+            "FedFunds": 4.81
+        },
+        "Apr": {
+            "CPI": 166.2,
+            "Unemployment": 4.3,
+            "FedFunds": 4.74
+        },
+        "May": {
+            "CPI": 166.2,
+            "Unemployment": 4.2,
+            "FedFunds": 4.74
+        },
+        "Jun": {
+            "CPI": 166.2,
+            "Unemployment": 4.3,
+            "FedFunds": 4.76
+        },
+        "Jul": {
+            "CPI": 166.7,
+            "Unemployment": 4.3,
+            "FedFunds": 4.99
+        },
+        "Aug": {
+            "CPI": 167.1,
+            "Unemployment": 4.2,
+            "FedFunds": 5.07
+        },
+        "Sep": {
+            "CPI": 167.9,
+            "Unemployment": 4.2,
+            "FedFunds": 5.22
+        },
+        "Oct": {
+            "CPI": 168.2,
+            "Unemployment": 4.1,
+            "FedFunds": 5.2
+        },
+        "Nov": {
+            "CPI": 168.3,
+            "Unemployment": 4.1,
+            "FedFunds": 5.42
+        },
+        "Dec": {
+            "CPI": 168.3,
+            "Unemployment": 4.0,
+            "FedFunds": 5.3
+        }
+    },
+    "2000": {
+        "Jan": {
+            "CPI": 168.8,
+            "Unemployment": 4.0,
+            "FedFunds": 5.45
+        },
+        "Feb": {
+            "CPI": 169.8,
+            "Unemployment": 4.1,
+            "FedFunds": 5.73
+        },
+        "Mar": {
+            "CPI": 171.2,
+            "Unemployment": 4.0,
+            "FedFunds": 5.85
+        },
+        "Apr": {
+            "CPI": 171.3,
+            "Unemployment": 3.8,
+            "FedFunds": 6.02
+        },
+        "May": {
+            "CPI": 171.5,
+            "Unemployment": 4.0,
+            "FedFunds": 6.27
+        },
+        "Jun": {
+            "CPI": 172.4,
+            "Unemployment": 4.0,
+            "FedFunds": 6.53
+        },
+        "Jul": {
+            "CPI": 172.8,
+            "Unemployment": 4.0,
+            "FedFunds": 6.54
+        },
+        "Aug": {
+            "CPI": 172.8,
+            "Unemployment": 4.1,
+            "FedFunds": 6.5
+        },
+        "Sep": {
+            "CPI": 173.7,
+            "Unemployment": 3.9,
+            "FedFunds": 6.52
+        },
+        "Oct": {
+            "CPI": 174.0,
+            "Unemployment": 3.9,
+            "FedFunds": 6.51
+        },
+        "Nov": {
+            "CPI": 174.1,
+            "Unemployment": 3.9,
+            "FedFunds": 6.51
+        },
+        "Dec": {
+            "CPI": 174.0,
+            "Unemployment": 3.9,
+            "FedFunds": 6.4
+        }
+    },
+    "2001": {
+        "Jan": {
+            "CPI": 175.1,
+            "Unemployment": 4.2,
+            "FedFunds": 5.98
+        },
+        "Feb": {
+            "CPI": 175.8,
+            "Unemployment": 4.2,
+            "FedFunds": 5.49
+        },
+        "Mar": {
+            "CPI": 176.2,
+            "Unemployment": 4.3,
+            "FedFunds": 5.31
+        },
+        "Apr": {
+            "CPI": 176.9,
+            "Unemployment": 4.4,
+            "FedFunds": 4.8
+        },
+        "May": {
+            "CPI": 177.7,
+            "Unemployment": 4.3,
+            "FedFunds": 4.21
+        },
+        "Jun": {
+            "CPI": 178.0,
+            "Unemployment": 4.5,
+            "FedFunds": 3.97
+        },
+        "Jul": {
+            "CPI": 177.5,
+            "Unemployment": 4.6,
+            "FedFunds": 3.77
+        },
+        "Aug": {
+            "CPI": 177.5,
+            "Unemployment": 4.9,
+            "FedFunds": 3.65
+        },
+        "Sep": {
+            "CPI": 178.3,
+            "Unemployment": 5.0,
+            "FedFunds": 3.07
+        },
+        "Oct": {
+            "CPI": 177.7,
+            "Unemployment": 5.3,
+            "FedFunds": 2.49
+        },
+        "Nov": {
+            "CPI": 177.4,
+            "Unemployment": 5.5,
+            "FedFunds": 2.09
+        },
+        "Dec": {
+            "CPI": 176.7,
+            "Unemployment": 5.7,
+            "FedFunds": 1.82
+        }
+    },
+    "2002": {
+        "Jan": {
+            "CPI": 177.1,
+            "Unemployment": 5.7,
+            "FedFunds": 1.73
+        },
+        "Feb": {
+            "CPI": 177.8,
+            "Unemployment": 5.7,
+            "FedFunds": 1.74
+        },
+        "Mar": {
+            "CPI": 178.8,
+            "Unemployment": 5.7,
+            "FedFunds": 1.73
+        },
+        "Apr": {
+            "CPI": 179.8,
+            "Unemployment": 5.9,
+            "FedFunds": 1.75
+        },
+        "May": {
+            "CPI": 179.8,
+            "Unemployment": 5.8,
+            "FedFunds": 1.75
+        },
+        "Jun": {
+            "CPI": 179.9,
+            "Unemployment": 5.8,
+            "FedFunds": 1.75
+        },
+        "Jul": {
+            "CPI": 180.1,
+            "Unemployment": 5.8,
+            "FedFunds": 1.73
+        },
+        "Aug": {
+            "CPI": 180.7,
+            "Unemployment": 5.7,
+            "FedFunds": 1.74
+        },
+        "Sep": {
+            "CPI": 181.0,
+            "Unemployment": 5.7,
+            "FedFunds": 1.75
+        },
+        "Oct": {
+            "CPI": 181.3,
+            "Unemployment": 5.7,
+            "FedFunds": 1.75
+        },
+        "Nov": {
+            "CPI": 181.3,
+            "Unemployment": 5.9,
+            "FedFunds": 1.34
+        },
+        "Dec": {
+            "CPI": 180.9,
+            "Unemployment": 6.0,
+            "FedFunds": 1.24
+        }
+    },
+    "2003": {
+        "Jan": {
+            "CPI": 181.7,
+            "Unemployment": 5.8,
+            "FedFunds": 1.24
+        },
+        "Feb": {
+            "CPI": 183.1,
+            "Unemployment": 5.9,
+            "FedFunds": 1.26
+        },
+        "Mar": {
+            "CPI": 184.2,
+            "Unemployment": 5.9,
+            "FedFunds": 1.25
+        },
+        "Apr": {
+            "CPI": 183.8,
+            "Unemployment": 6.0,
+            "FedFunds": 1.26
+        },
+        "May": {
+            "CPI": 183.5,
+            "Unemployment": 6.1,
+            "FedFunds": 1.26
+        },
+        "Jun": {
+            "CPI": 183.7,
+            "Unemployment": 6.3,
+            "FedFunds": 1.22
+        },
+        "Jul": {
+            "CPI": 183.9,
+            "Unemployment": 6.2,
+            "FedFunds": 1.01
+        },
+        "Aug": {
+            "CPI": 184.6,
+            "Unemployment": 6.1,
+            "FedFunds": 1.03
+        },
+        "Sep": {
+            "CPI": 185.2,
+            "Unemployment": 6.1,
+            "FedFunds": 1.01
+        },
+        "Oct": {
+            "CPI": 185.0,
+            "Unemployment": 6.0,
+            "FedFunds": 1.01
+        },
+        "Nov": {
+            "CPI": 184.5,
+            "Unemployment": 5.8,
+            "FedFunds": 1.0
+        },
+        "Dec": {
+            "CPI": 184.3,
+            "Unemployment": 5.7,
+            "FedFunds": 0.98
+        }
+    },
+    "2004": {
+        "Jan": {
+            "CPI": 185.2,
+            "Unemployment": 5.7,
+            "FedFunds": 1.0
+        },
+        "Feb": {
+            "CPI": 186.2,
+            "Unemployment": 5.6,
+            "FedFunds": 1.01
+        },
+        "Mar": {
+            "CPI": 187.4,
+            "Unemployment": 5.8,
+            "FedFunds": 1.0
+        },
+        "Apr": {
+            "CPI": 188.0,
+            "Unemployment": 5.6,
+            "FedFunds": 1.0
+        },
+        "May": {
+            "CPI": 189.1,
+            "Unemployment": 5.6,
+            "FedFunds": 1.0
+        },
+        "Jun": {
+            "CPI": 189.7,
+            "Unemployment": 5.6,
+            "FedFunds": 1.03
+        },
+        "Jul": {
+            "CPI": 189.4,
+            "Unemployment": 5.5,
+            "FedFunds": 1.26
+        },
+        "Aug": {
+            "CPI": 189.5,
+            "Unemployment": 5.4,
+            "FedFunds": 1.43
+        },
+        "Sep": {
+            "CPI": 189.9,
+            "Unemployment": 5.4,
+            "FedFunds": 1.61
+        },
+        "Oct": {
+            "CPI": 190.9,
+            "Unemployment": 5.5,
+            "FedFunds": 1.76
+        },
+        "Nov": {
+            "CPI": 191.0,
+            "Unemployment": 5.4,
+            "FedFunds": 1.93
+        },
+        "Dec": {
+            "CPI": 190.3,
+            "Unemployment": 5.4,
+            "FedFunds": 2.16
+        }
+    },
+    "2005": {
+        "Jan": {
+            "CPI": 190.7,
+            "Unemployment": 5.3,
+            "FedFunds": 2.28
+        },
+        "Feb": {
+            "CPI": 191.8,
+            "Unemployment": 5.4,
+            "FedFunds": 2.5
+        },
+        "Mar": {
+            "CPI": 193.3,
+            "Unemployment": 5.2,
+            "FedFunds": 2.63
+        },
+        "Apr": {
+            "CPI": 194.6,
+            "Unemployment": 5.2,
+            "FedFunds": 2.79
+        },
+        "May": {
+            "CPI": 194.4,
+            "Unemployment": 5.1,
+            "FedFunds": 3.0
+        },
+        "Jun": {
+            "CPI": 194.5,
+            "Unemployment": 5.0,
+            "FedFunds": 3.04
+        },
+        "Jul": {
+            "CPI": 195.4,
+            "Unemployment": 5.0,
+            "FedFunds": 3.26
+        },
+        "Aug": {
+            "CPI": 196.4,
+            "Unemployment": 4.9,
+            "FedFunds": 3.5
+        },
+        "Sep": {
+            "CPI": 198.8,
+            "Unemployment": 5.0,
+            "FedFunds": 3.62
+        },
+        "Oct": {
+            "CPI": 199.2,
+            "Unemployment": 5.0,
+            "FedFunds": 3.78
+        },
+        "Nov": {
+            "CPI": 197.6,
+            "Unemployment": 5.0,
+            "FedFunds": 4.0
+        },
+        "Dec": {
+            "CPI": 196.8,
+            "Unemployment": 4.9,
+            "FedFunds": 4.16
+        }
+    },
+    "2006": {
+        "Jan": {
+            "CPI": 198.3,
+            "Unemployment": 4.7,
+            "FedFunds": 4.29
+        },
+        "Feb": {
+            "CPI": 198.7,
+            "Unemployment": 4.8,
+            "FedFunds": 4.49
+        },
+        "Mar": {
+            "CPI": 199.8,
+            "Unemployment": 4.7,
+            "FedFunds": 4.59
+        },
+        "Apr": {
+            "CPI": 201.5,
+            "Unemployment": 4.7,
+            "FedFunds": 4.79
+        },
+        "May": {
+            "CPI": 202.5,
+            "Unemployment": 4.6,
+            "FedFunds": 4.94
+        },
+        "Jun": {
+            "CPI": 202.9,
+            "Unemployment": 4.6,
+            "FedFunds": 4.99
+        },
+        "Jul": {
+            "CPI": 203.5,
+            "Unemployment": 4.7,
+            "FedFunds": 5.24
+        },
+        "Aug": {
+            "CPI": 203.9,
+            "Unemployment": 4.7,
+            "FedFunds": 5.25
+        },
+        "Sep": {
+            "CPI": 202.9,
+            "Unemployment": 4.5,
+            "FedFunds": 5.25
+        },
+        "Oct": {
+            "CPI": 201.8,
+            "Unemployment": 4.4,
+            "FedFunds": 5.25
+        },
+        "Nov": {
+            "CPI": 201.5,
+            "Unemployment": 4.5,
+            "FedFunds": 5.25
+        },
+        "Dec": {
+            "CPI": 201.8,
+            "Unemployment": 4.4,
+            "FedFunds": 5.24
+        }
+    },
+    "2007": {
+        "Jan": {
+            "CPI": 202.416,
+            "Unemployment": 4.6,
+            "FedFunds": 5.25
+        },
+        "Feb": {
+            "CPI": 203.499,
+            "Unemployment": 4.5,
+            "FedFunds": 5.26
+        },
+        "Mar": {
+            "CPI": 205.352,
+            "Unemployment": 4.4,
+            "FedFunds": 5.26
+        },
+        "Apr": {
+            "CPI": 206.686,
+            "Unemployment": 4.5,
+            "FedFunds": 5.25
+        },
+        "May": {
+            "CPI": 207.949,
+            "Unemployment": 4.4,
+            "FedFunds": 5.25
+        },
+        "Jun": {
+            "CPI": 208.352,
+            "Unemployment": 4.6,
+            "FedFunds": 5.25
+        },
+        "Jul": {
+            "CPI": 208.299,
+            "Unemployment": 4.7,
+            "FedFunds": 5.26
+        },
+        "Aug": {
+            "CPI": 207.917,
+            "Unemployment": 4.6,
+            "FedFunds": 5.02
+        },
+        "Sep": {
+            "CPI": 208.49,
+            "Unemployment": 4.7,
+            "FedFunds": 4.94
+        },
+        "Oct": {
+            "CPI": 208.936,
+            "Unemployment": 4.7,
+            "FedFunds": 4.76
+        },
+        "Nov": {
+            "CPI": 210.177,
+            "Unemployment": 4.7,
+            "FedFunds": 4.49
+        },
+        "Dec": {
+            "CPI": 210.036,
+            "Unemployment": 5.0,
+            "FedFunds": 4.24
+        }
+    },
+    "2008": {
+        "Jan": {
+            "CPI": 211.08,
+            "Unemployment": 5.0,
+            "FedFunds": 3.94
+        },
+        "Feb": {
+            "CPI": 211.693,
+            "Unemployment": 4.9,
+            "FedFunds": 2.98
+        },
+        "Mar": {
+            "CPI": 213.528,
+            "Unemployment": 5.1,
+            "FedFunds": 2.61
+        },
+        "Apr": {
+            "CPI": 214.823,
+            "Unemployment": 5.0,
+            "FedFunds": 2.28
+        },
+        "May": {
+            "CPI": 216.632,
+            "Unemployment": 5.4,
+            "FedFunds": 1.98
+        },
+        "Jun": {
+            "CPI": 218.815,
+            "Unemployment": 5.6,
+            "FedFunds": 2.0
+        },
+        "Jul": {
+            "CPI": 219.964,
+            "Unemployment": 5.8,
+            "FedFunds": 2.01
+        },
+        "Aug": {
+            "CPI": 219.086,
+            "Unemployment": 6.1,
+            "FedFunds": 2.0
+        },
+        "Sep": {
+            "CPI": 218.783,
+            "Unemployment": 6.1,
+            "FedFunds": 1.81
+        },
+        "Oct": {
+            "CPI": 216.573,
+            "Unemployment": 6.5,
+            "FedFunds": 0.97
+        },
+        "Nov": {
+            "CPI": 212.425,
+            "Unemployment": 6.8,
+            "FedFunds": 0.39
+        },
+        "Dec": {
+            "CPI": 210.228,
+            "Unemployment": 7.3,
+            "FedFunds": 0.16
+        }
+    },
+    "2009": {
+        "Jan": {
+            "CPI": 211.143,
+            "Unemployment": 7.8,
+            "FedFunds": 0.15
+        },
+        "Feb": {
+            "CPI": 212.193,
+            "Unemployment": 8.3,
+            "FedFunds": 0.22
+        },
+        "Mar": {
+            "CPI": 212.709,
+            "Unemployment": 8.7,
+            "FedFunds": 0.18
+        },
+        "Apr": {
+            "CPI": 213.24,
+            "Unemployment": 9.0,
+            "FedFunds": 0.15
+        },
+        "May": {
+            "CPI": 213.856,
+            "Unemployment": 9.4,
+            "FedFunds": 0.18
+        },
+        "Jun": {
+            "CPI": 215.693,
+            "Unemployment": 9.5,
+            "FedFunds": 0.21
+        },
+        "Jul": {
+            "CPI": 215.351,
+            "Unemployment": 9.5,
+            "FedFunds": 0.16
+        },
+        "Aug": {
+            "CPI": 215.834,
+            "Unemployment": 9.6,
+            "FedFunds": 0.16
+        },
+        "Sep": {
+            "CPI": 215.969,
+            "Unemployment": 9.8,
+            "FedFunds": 0.15
+        },
+        "Oct": {
+            "CPI": 216.177,
+            "Unemployment": 10.0,
+            "FedFunds": 0.12
+        },
+        "Nov": {
+            "CPI": 216.33,
+            "Unemployment": 9.9,
+            "FedFunds": 0.12
+        },
+        "Dec": {
+            "CPI": 215.949,
+            "Unemployment": 9.9,
+            "FedFunds": 0.12
+        }
+    },
+    "2010": {
+        "Jan": {
+            "CPI": 216.687,
+            "Unemployment": 9.8,
+            "FedFunds": 0.11
+        },
+        "Feb": {
+            "CPI": 216.741,
+            "Unemployment": 9.8,
+            "FedFunds": 0.13
+        },
+        "Mar": {
+            "CPI": 217.631,
+            "Unemployment": 9.9,
+            "FedFunds": 0.16
+        },
+        "Apr": {
+            "CPI": 218.009,
+            "Unemployment": 9.9,
+            "FedFunds": 0.2
+        },
+        "May": {
+            "CPI": 218.178,
+            "Unemployment": 9.6,
+            "FedFunds": 0.2
+        },
+        "Jun": {
+            "CPI": 217.965,
+            "Unemployment": 9.4,
+            "FedFunds": 0.18
+        },
+        "Jul": {
+            "CPI": 218.011,
+            "Unemployment": 9.4,
+            "FedFunds": 0.18
+        },
+        "Aug": {
+            "CPI": 218.312,
+            "Unemployment": 9.5,
+            "FedFunds": 0.19
+        },
+        "Sep": {
+            "CPI": 218.439,
+            "Unemployment": 9.5,
+            "FedFunds": 0.19
+        },
+        "Oct": {
+            "CPI": 218.711,
+            "Unemployment": 9.4,
+            "FedFunds": 0.19
+        },
+        "Nov": {
+            "CPI": 218.803,
+            "Unemployment": 9.8,
+            "FedFunds": 0.19
+        },
+        "Dec": {
+            "CPI": 219.179,
+            "Unemployment": 9.3,
+            "FedFunds": 0.18
+        }
+    },
+    "2011": {
+        "Jan": {
+            "CPI": 220.223,
+            "Unemployment": 9.1,
+            "FedFunds": 0.17
+        },
+        "Feb": {
+            "CPI": 221.309,
+            "Unemployment": 9.0,
+            "FedFunds": 0.16
+        },
+        "Mar": {
+            "CPI": 223.467,
+            "Unemployment": 9.0,
+            "FedFunds": 0.14
+        },
+        "Apr": {
+            "CPI": 224.906,
+            "Unemployment": 9.1,
+            "FedFunds": 0.1
+        },
+        "May": {
+            "CPI": 225.964,
+            "Unemployment": 9.0,
+            "FedFunds": 0.09
+        },
+        "Jun": {
+            "CPI": 225.722,
+            "Unemployment": 9.1,
+            "FedFunds": 0.09
+        },
+        "Jul": {
+            "CPI": 225.922,
+            "Unemployment": 9.0,
+            "FedFunds": 0.07
+        },
+        "Aug": {
+            "CPI": 226.545,
+            "Unemployment": 9.0,
+            "FedFunds": 0.1
+        },
+        "Sep": {
+            "CPI": 226.889,
+            "Unemployment": 9.0,
+            "FedFunds": 0.08
+        },
+        "Oct": {
+            "CPI": 226.421,
+            "Unemployment": 8.8,
+            "FedFunds": 0.07
+        },
+        "Nov": {
+            "CPI": 226.23,
+            "Unemployment": 8.6,
+            "FedFunds": 0.08
+        },
+        "Dec": {
+            "CPI": 225.672,
+            "Unemployment": 8.5,
+            "FedFunds": 0.07
+        }
+    },
+    "2012": {
+        "Jan": {
+            "CPI": 226.665,
+            "Unemployment": 8.3,
+            "FedFunds": 0.08
+        },
+        "Feb": {
+            "CPI": 227.663,
+            "Unemployment": 8.3,
+            "FedFunds": 0.1
+        },
+        "Mar": {
+            "CPI": 229.392,
+            "Unemployment": 8.2,
+            "FedFunds": 0.13
+        },
+        "Apr": {
+            "CPI": 230.085,
+            "Unemployment": 8.2,
+            "FedFunds": 0.14
+        },
+        "May": {
+            "CPI": 229.815,
+            "Unemployment": 8.2,
+            "FedFunds": 0.16
+        },
+        "Jun": {
+            "CPI": 229.478,
+            "Unemployment": 8.2,
+            "FedFunds": 0.16
+        },
+        "Jul": {
+            "CPI": 229.104,
+            "Unemployment": 8.2,
+            "FedFunds": 0.16
+        },
+        "Aug": {
+            "CPI": 230.379,
+            "Unemployment": 8.1,
+            "FedFunds": 0.13
+        },
+        "Sep": {
+            "CPI": 231.407,
+            "Unemployment": 7.8,
+            "FedFunds": 0.14
+        },
+        "Oct": {
+            "CPI": 231.317,
+            "Unemployment": 7.8,
+            "FedFunds": 0.16
+        },
+        "Nov": {
+            "CPI": 230.221,
+            "Unemployment": 7.7,
+            "FedFunds": 0.16
+        },
+        "Dec": {
+            "CPI": 229.601,
+            "Unemployment": 7.9,
+            "FedFunds": 0.16
+        }
+    },
+    "2013": {
+        "Jan": {
+            "CPI": 230.28,
+            "Unemployment": 8.0,
+            "FedFunds": 0.14
+        },
+        "Feb": {
+            "CPI": 232.166,
+            "Unemployment": 7.7,
+            "FedFunds": 0.15
+        },
+        "Mar": {
+            "CPI": 232.773,
+            "Unemployment": 7.5,
+            "FedFunds": 0.14
+        },
+        "Apr": {
+            "CPI": 232.531,
+            "Unemployment": 7.6,
+            "FedFunds": 0.15
+        },
+        "May": {
+            "CPI": 232.945,
+            "Unemployment": 7.5,
+            "FedFunds": 0.11
+        },
+        "Jun": {
+            "CPI": 233.504,
+            "Unemployment": 7.5,
+            "FedFunds": 0.09
+        },
+        "Jul": {
+            "CPI": 233.596,
+            "Unemployment": 7.3,
+            "FedFunds": 0.09
+        },
+        "Aug": {
+            "CPI": 233.877,
+            "Unemployment": 7.2,
+            "FedFunds": 0.08
+        },
+        "Sep": {
+            "CPI": 234.149,
+            "Unemployment": 7.2,
+            "FedFunds": 0.08
+        },
+        "Oct": {
+            "CPI": 233.546,
+            "Unemployment": 7.2,
+            "FedFunds": 0.09
+        },
+        "Nov": {
+            "CPI": 233.069,
+            "Unemployment": 6.9,
+            "FedFunds": 0.08
+        },
+        "Dec": {
+            "CPI": 233.049,
+            "Unemployment": 6.7,
+            "FedFunds": 0.09
+        }
+    },
+    "2014": {
+        "Jan": {
+            "CPI": 233.916,
+            "Unemployment": 6.6,
+            "FedFunds": 0.07
+        },
+        "Feb": {
+            "CPI": 234.781,
+            "Unemployment": 6.7,
+            "FedFunds": 0.07
+        },
+        "Mar": {
+            "CPI": 236.293,
+            "Unemployment": 6.7,
+            "FedFunds": 0.08
+        },
+        "Apr": {
+            "CPI": 237.072,
+            "Unemployment": 6.2,
+            "FedFunds": 0.09
+        },
+        "May": {
+            "CPI": 237.9,
+            "Unemployment": 6.3,
+            "FedFunds": 0.09
+        },
+        "Jun": {
+            "CPI": 238.343,
+            "Unemployment": 6.1,
+            "FedFunds": 0.1
+        },
+        "Jul": {
+            "CPI": 238.25,
+            "Unemployment": 6.2,
+            "FedFunds": 0.09
+        },
+        "Aug": {
+            "CPI": 237.852,
+            "Unemployment": 6.1,
+            "FedFunds": 0.09
+        },
+        "Sep": {
+            "CPI": 238.031,
+            "Unemployment": 5.9,
+            "FedFunds": 0.09
+        },
+        "Oct": {
+            "CPI": 237.433,
+            "Unemployment": 5.7,
+            "FedFunds": 0.09
+        },
+        "Nov": {
+            "CPI": 236.151,
+            "Unemployment": 5.8,
+            "FedFunds": 0.09
+        },
+        "Dec": {
+            "CPI": 234.812,
+            "Unemployment": 5.6,
+            "FedFunds": 0.12
+        }
+    },
+    "2015": {
+        "Jan": {
+            "CPI": 233.707,
+            "Unemployment": 5.7,
+            "FedFunds": 0.11
+        },
+        "Feb": {
+            "CPI": 234.722,
+            "Unemployment": 5.5,
+            "FedFunds": 0.11
+        },
+        "Mar": {
+            "CPI": 236.119,
+            "Unemployment": 5.4,
+            "FedFunds": 0.11
+        },
+        "Apr": {
+            "CPI": 236.599,
+            "Unemployment": 5.4,
+            "FedFunds": 0.12
+        },
+        "May": {
+            "CPI": 237.805,
+            "Unemployment": 5.6,
+            "FedFunds": 0.12
+        },
+        "Jun": {
+            "CPI": 238.638,
+            "Unemployment": 5.3,
+            "FedFunds": 0.13
+        },
+        "Jul": {
+            "CPI": 238.654,
+            "Unemployment": 5.2,
+            "FedFunds": 0.13
+        },
+        "Aug": {
+            "CPI": 238.316,
+            "Unemployment": 5.1,
+            "FedFunds": 0.14
+        },
+        "Sep": {
+            "CPI": 237.945,
+            "Unemployment": 5.0,
+            "FedFunds": 0.14
+        },
+        "Oct": {
+            "CPI": 237.838,
+            "Unemployment": 5.0,
+            "FedFunds": 0.12
+        },
+        "Nov": {
+            "CPI": 237.336,
+            "Unemployment": 5.1,
+            "FedFunds": 0.12
+        },
+        "Dec": {
+            "CPI": 236.525,
+            "Unemployment": 5.0,
+            "FedFunds": 0.24
+        }
+    },
+    "2016": {
+        "Jan": {
+            "CPI": 236.916,
+            "Unemployment": 4.8,
+            "FedFunds": 0.34
+        },
+        "Feb": {
+            "CPI": 237.111,
+            "Unemployment": 4.9,
+            "FedFunds": 0.38
+        },
+        "Mar": {
+            "CPI": 238.132,
+            "Unemployment": 5.0,
+            "FedFunds": 0.36
+        },
+        "Apr": {
+            "CPI": 239.261,
+            "Unemployment": 5.1,
+            "FedFunds": 0.37
+        },
+        "May": {
+            "CPI": 240.229,
+            "Unemployment": 4.8,
+            "FedFunds": 0.37
+        },
+        "Jun": {
+            "CPI": 241.018,
+            "Unemployment": 4.9,
+            "FedFunds": 0.38
+        },
+        "Jul": {
+            "CPI": 240.628,
+            "Unemployment": 4.8,
+            "FedFunds": 0.39
+        },
+        "Aug": {
+            "CPI": 240.849,
+            "Unemployment": 4.9,
+            "FedFunds": 0.4
+        },
+        "Sep": {
+            "CPI": 241.428,
+            "Unemployment": 5.0,
+            "FedFunds": 0.4
+        },
+        "Oct": {
+            "CPI": 241.729,
+            "Unemployment": 4.9,
+            "FedFunds": 0.4
+        },
+        "Nov": {
+            "CPI": 241.353,
+            "Unemployment": 4.7,
+            "FedFunds": 0.41
+        },
+        "Dec": {
+            "CPI": 241.432,
+            "Unemployment": 4.7,
+            "FedFunds": 0.54
+        }
+    },
+    "2017": {
+        "Jan": {
+            "CPI": 242.839,
+            "Unemployment": 4.7,
+            "FedFunds": 0.65
+        },
+        "Feb": {
+            "CPI": 243.603,
+            "Unemployment": 4.6,
+            "FedFunds": 0.66
+        },
+        "Mar": {
+            "CPI": 243.801,
+            "Unemployment": 4.4,
+            "FedFunds": 0.79
+        },
+        "Apr": {
+            "CPI": 244.524,
+            "Unemployment": 4.4,
+            "FedFunds": 0.9
+        },
+        "May": {
+            "CPI": 244.733,
+            "Unemployment": 4.4,
+            "FedFunds": 0.91
+        },
+        "Jun": {
+            "CPI": 244.955,
+            "Unemployment": 4.3,
+            "FedFunds": 1.04
+        },
+        "Jul": {
+            "CPI": 244.786,
+            "Unemployment": 4.3,
+            "FedFunds": 1.15
+        },
+        "Aug": {
+            "CPI": 245.519,
+            "Unemployment": 4.4,
+            "FedFunds": 1.16
+        },
+        "Sep": {
+            "CPI": 246.819,
+            "Unemployment": 4.3,
+            "FedFunds": 1.15
+        },
+        "Oct": {
+            "CPI": 246.663,
+            "Unemployment": 4.2,
+            "FedFunds": 1.15
+        },
+        "Nov": {
+            "CPI": 246.669,
+            "Unemployment": 4.2,
+            "FedFunds": 1.16
+        },
+        "Dec": {
+            "CPI": 246.524,
+            "Unemployment": 4.1,
+            "FedFunds": 1.3
+        }
+    },
+    "2018": {
+        "Jan": {
+            "CPI": 247.867,
+            "Unemployment": 4.0,
+            "FedFunds": 1.41
+        },
+        "Feb": {
+            "CPI": 248.991,
+            "Unemployment": 4.1,
+            "FedFunds": 1.42
+        },
+        "Mar": {
+            "CPI": 249.554,
+            "Unemployment": 4.0,
+            "FedFunds": 1.51
+        },
+        "Apr": {
+            "CPI": 250.546,
+            "Unemployment": 4.0,
+            "FedFunds": 1.69
+        },
+        "May": {
+            "CPI": 251.588,
+            "Unemployment": 3.8,
+            "FedFunds": 1.7
+        },
+        "Jun": {
+            "CPI": 251.989,
+            "Unemployment": 4.0,
+            "FedFunds": 1.82
+        },
+        "Jul": {
+            "CPI": 252.006,
+            "Unemployment": 3.8,
+            "FedFunds": 1.91
+        },
+        "Aug": {
+            "CPI": 252.146,
+            "Unemployment": 3.8,
+            "FedFunds": 1.91
+        },
+        "Sep": {
+            "CPI": 252.439,
+            "Unemployment": 3.7,
+            "FedFunds": 1.95
+        },
+        "Oct": {
+            "CPI": 252.885,
+            "Unemployment": 3.8,
+            "FedFunds": 2.19
+        },
+        "Nov": {
+            "CPI": 252.038,
+            "Unemployment": 3.8,
+            "FedFunds": 2.2
+        },
+        "Dec": {
+            "CPI": 251.233,
+            "Unemployment": 3.9,
+            "FedFunds": 2.27
+        }
+    },
+    "2019": {
+        "Jan": {
+            "CPI": 251.712,
+            "Unemployment": 4.0,
+            "FedFunds": 2.4
+        },
+        "Feb": {
+            "CPI": 252.776,
+            "Unemployment": 3.8,
+            "FedFunds": 2.4
+        },
+        "Mar": {
+            "CPI": 254.202,
+            "Unemployment": 3.8,
+            "FedFunds": 2.41
+        },
+        "Apr": {
+            "CPI": 255.548,
+            "Unemployment": 3.7,
+            "FedFunds": 2.42
+        },
+        "May": {
+            "CPI": 256.092,
+            "Unemployment": 3.6,
+            "FedFunds": 2.39
+        },
+        "Jun": {
+            "CPI": 256.143,
+            "Unemployment": 3.6,
+            "FedFunds": 2.38
+        },
+        "Jul": {
+            "CPI": 256.571,
+            "Unemployment": 3.7,
+            "FedFunds": 2.4
+        },
+        "Aug": {
+            "CPI": 256.558,
+            "Unemployment": 3.6,
+            "FedFunds": 2.13
+        },
+        "Sep": {
+            "CPI": 256.759,
+            "Unemployment": 3.5,
+            "FedFunds": 2.04
+        },
+        "Oct": {
+            "CPI": 257.346,
+            "Unemployment": 3.6,
+            "FedFunds": 1.83
+        },
+        "Nov": {
+            "CPI": 257.208,
+            "Unemployment": 3.6,
+            "FedFunds": 1.55
+        },
+        "Dec": {
+            "CPI": 256.974,
+            "Unemployment": 3.6,
+            "FedFunds": 1.55
+        }
+    },
+    "2020": {
+        "Jan": {
+            "CPI": 257.971,
+            "Unemployment": 3.6,
+            "FedFunds": 1.55
+        },
+        "Feb": {
+            "CPI": 258.678,
+            "Unemployment": 3.5,
+            "FedFunds": 1.58
+        },
+        "Mar": {
+            "CPI": 258.115,
+            "Unemployment": 4.4,
+            "FedFunds": 0.65
+        },
+        "Apr": {
+            "CPI": 256.389,
+            "Unemployment": 14.8,
+            "FedFunds": 0.05
+        },
+        "May": {
+            "CPI": 256.394,
+            "Unemployment": 13.2,
+            "FedFunds": 0.05
+        },
+        "Jun": {
+            "CPI": 257.797,
+            "Unemployment": 11.0,
+            "FedFunds": 0.08
+        },
+        "Jul": {
+            "CPI": 259.101,
+            "Unemployment": 10.2,
+            "FedFunds": 0.09
+        },
+        "Aug": {
+            "CPI": 259.918,
+            "Unemployment": 8.4,
+            "FedFunds": 0.1
+        },
+        "Sep": {
+            "CPI": 260.28,
+            "Unemployment": 7.8,
+            "FedFunds": 0.09
+        },
+        "Oct": {
+            "CPI": 260.388,
+            "Unemployment": 6.8,
+            "FedFunds": 0.09
+        },
+        "Nov": {
+            "CPI": 260.229,
+            "Unemployment": 6.7,
+            "FedFunds": 0.09
+        },
+        "Dec": {
+            "CPI": 260.474,
+            "Unemployment": 6.7,
+            "FedFunds": 0.09
+        }
+    },
+    "2021": {
+        "Jan": {
+            "CPI": 261.582,
+            "Unemployment": 6.4,
+            "FedFunds": 0.09
+        },
+        "Feb": {
+            "CPI": 263.014,
+            "Unemployment": 6.2,
+            "FedFunds": 0.08
+        },
+        "Mar": {
+            "CPI": 264.877,
+            "Unemployment": 6.1,
+            "FedFunds": 0.07
+        },
+        "Apr": {
+            "CPI": 267.054,
+            "Unemployment": 6.1,
+            "FedFunds": 0.07
+        },
+        "May": {
+            "CPI": 269.195,
+            "Unemployment": 5.8,
+            "FedFunds": 0.06
+        },
+        "Jun": {
+            "CPI": 271.696,
+            "Unemployment": 5.9,
+            "FedFunds": 0.08
+        },
+        "Jul": {
+            "CPI": 273.003,
+            "Unemployment": 5.4,
+            "FedFunds": 0.1
+        },
+        "Aug": {
+            "CPI": 273.567,
+            "Unemployment": 5.1,
+            "FedFunds": 0.09
+        },
+        "Sep": {
+            "CPI": 274.31,
+            "Unemployment": 4.7,
+            "FedFunds": 0.08
+        },
+        "Oct": {
+            "CPI": 276.589,
+            "Unemployment": 4.5,
+            "FedFunds": 0.08
+        },
+        "Nov": {
+            "CPI": 277.948,
+            "Unemployment": 4.1,
+            "FedFunds": 0.08
+        },
+        "Dec": {
+            "CPI": 278.802,
+            "Unemployment": 3.9,
+            "FedFunds": 0.08
+        }
+    },
+    "2022": {
+        "Jan": {
+            "CPI": 281.148,
+            "Unemployment": 4.0,
+            "FedFunds": 0.08
+        },
+        "Feb": {
+            "CPI": 283.716,
+            "Unemployment": 3.8,
+            "FedFunds": 0.08
+        },
+        "Mar": {
+            "CPI": 287.504,
+            "Unemployment": 3.6,
+            "FedFunds": 0.2
+        },
+        "Apr": {
+            "CPI": 289.109,
+            "Unemployment": 3.7,
+            "FedFunds": 0.33
+        },
+        "May": {
+            "CPI": 292.296,
+            "Unemployment": 3.6,
+            "FedFunds": 0.77
+        },
+        "Jun": {
+            "CPI": 296.311,
+            "Unemployment": 3.6,
+            "FedFunds": 1.21
+        },
+        "Jul": {
+            "CPI": 296.276,
+            "Unemployment": 3.5,
+            "FedFunds": 1.68
+        },
+        "Aug": {
+            "CPI": 296.171,
+            "Unemployment": 3.6,
+            "FedFunds": 2.33
+        },
+        "Sep": {
+            "CPI": 296.808,
+            "Unemployment": 3.5,
+            "FedFunds": 2.56
+        },
+        "Oct": {
+            "CPI": 298.012,
+            "Unemployment": 3.6,
+            "FedFunds": 3.08
+        },
+        "Nov": {
+            "CPI": 297.711,
+            "Unemployment": 3.6,
+            "FedFunds": 3.78
+        },
+        "Dec": {
+            "CPI": 296.797,
+            "Unemployment": 3.5,
+            "FedFunds": 4.1
+        }
+    },
+    "2023": {
+        "Jan": {
+            "CPI": 299.17,
+            "Unemployment": 3.4,
+            "FedFunds": 4.33
+        },
+        "Feb": {
+            "CPI": 300.84,
+            "Unemployment": 3.6,
+            "FedFunds": 4.57
+        },
+        "Mar": {
+            "CPI": 301.836,
+            "Unemployment": 3.5,
+            "FedFunds": 4.65
+        },
+        "Apr": {
+            "CPI": 303.363,
+            "Unemployment": 3.4,
+            "FedFunds": 4.83
+        },
+        "May": {
+            "CPI": 304.127,
+            "Unemployment": 3.7,
+            "FedFunds": 5.06
+        },
+        "Jun": {
+            "CPI": 305.109,
+            "Unemployment": 3.6,
+            "FedFunds": 5.08
+        },
+        "Jul": {
+            "CPI": 305.691,
+            "Unemployment": 3.5,
+            "FedFunds": 5.12
+        },
+        "Aug": {
+            "CPI": 307.026,
+            "Unemployment": 3.8,
+            "FedFunds": 5.33
+        },
+        "Sep": {
+            "CPI": 307.789,
+            "Unemployment": 3.8,
+            "FedFunds": 5.33
+        },
+        "Oct": {
+            "CPI": 307.671,
+            "Unemployment": 3.8,
+            "FedFunds": 5.33
+        },
+        "Nov": {
+            "CPI": 307.051,
+            "Unemployment": 3.7,
+            "FedFunds": 5.33
+        },
+        "Dec": {
+            "CPI": 306.746,
+            "Unemployment": 3.7,
+            "FedFunds": 5.33
+        }
+    },
+    "2024": {
+        "Jan": {
+            "CPI": 308.417,
+            "Unemployment": 3.7,
+            "FedFunds": 5.33
+        },
+        "Feb": {
+            "CPI": 310.326,
+            "Unemployment": 3.9,
+            "FedFunds": 5.33
+        }
+    }
+}
